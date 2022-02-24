@@ -1,0 +1,669 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The crown and glory of a Christian consisting in a sound conversion and well ordered conversation.</title>
+            <author>Ness, Christopher, 1621-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 99 KB of XML-encoded text transcribed from 85 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52808</idno>
+            <idno type="STC">Wing N450</idno>
+            <idno type="STC">ESTC R26867</idno>
+            <idno type="EEBO-CITATION">09570637</idno>
+            <idno type="OCLC">ocm 09570637</idno>
+            <idno type="VID">43657</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52808)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43657)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1336:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The crown and glory of a Christian consisting in a sound conversion and well ordered conversation.</title>
+                  <author>Ness, Christopher, 1621-1705.</author>
+               </titleStmt>
+               <extent>[3], 160 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Dorman Newman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:43657:1" rendition="simple:additions"/>
+THE CROWN and GLORY OF A CHRISTIAN: Conſiſting In a ſound Converſion, and well ordered Con<g ref="char:EOLhyphen"/>verſation.</p>
+            <q>
+               <p>
+                  <hi>To him that orders his Converſa<g ref="char:EOLhyphen"/>tion aright will I give to ſee the ſalvation of God,</hi>
+               </p> 
+               <bibl>Pſal. 50. 23.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>Make the tree good, and the fruit will be good alſo,</hi>
+               </p> 
+               <bibl>Luk. 12.33.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Dorman Newman,</hi> at the <hi>Kings-Arms</hi> in the <hi>Poultry,</hi> 1676.</p>
+            <pb facs="tcp:43657:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:43657:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>THe Authors de<g ref="char:EOLhyphen"/>ſign was to re<g ref="char:EOLhyphen"/>duce the whole of Mans Being, Buſi<g ref="char:EOLhyphen"/>neſs, and Bleſſed<g ref="char:EOLhyphen"/>neſs into as few lines as might be, thereby to invite a ſober peruſal of them; as alſo to let men ſee, That the
+<pb facs="tcp:43657:3"/>
+Chriſtian Religion is plain, its Precepts clear, and its Practiſe eaſie, to them on whom God hath wrought a ſaving change, or true converſion; which is the firſt thing treated of; the next is, to ſhew the Chriſtian how to carry himſelf in Na<g ref="char:EOLhyphen"/>tural, Civil and Re<g ref="char:EOLhyphen"/>ligious
+<pb facs="tcp:43657:3"/>
+duties. If thou readeſt it with a deſire of ſpiritual advantage (which was the end and prayer of the Au<g ref="char:EOLhyphen"/>thor) God may bleſs it to thee; and both thou and the Au<g ref="char:EOLhyphen"/>thor have cauſe (as for all his bleſſings) to praiſe him for this. Farewell.</p>
+            <pb facs="tcp:43657:4"/>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="1" facs="tcp:43657:4"/>
+            <head>Firſt of Preparation to Chriſtianity.</head>
+            <p n="1">1. YOu muſt look upon true Chriſtianity to be of abſolute neceſſity, and an indiſpenſable duty: you cannot live without it, and you dare not die with<g ref="char:EOLhyphen"/>out it. Wo to you, if you die before you live; if you die to the world, be<g ref="char:EOLhyphen"/>fore you live to God; and if you go out of the world, before Jeſus Chriſt come into your heart: be ſure that Chriſt be in you, ſo
+<pb n="2" facs="tcp:43657:5"/>
+may he bring the hope of glory, <hi>Col.</hi> 1. 27. and that you be in Chriſt, ſo muſt be broke off from the wild olive of the old <hi>Adam, Rom.</hi> 11. 24. which two makes up the true Chri<g ref="char:EOLhyphen"/>ſtian.</p>
+            <p n="2">2. You cannot attain to true Chriſtianity, until you be born again, [or from above] <hi>Joh.</hi> 3. 3, 5. until you can experience the death and burial of the old <hi>Adam,</hi> and the Reſurrecti<g ref="char:EOLhyphen"/>on of the New. You muſt be unmade to ſin [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.] 1 <hi>Pet.</hi> 2. 24. and then made up again for God. 'Tis not ſcraping the walls of the
+<pb n="3" facs="tcp:43657:5"/>
+houſe of the fretting Le<g ref="char:EOLhyphen"/>proſie, that will ſerve the turn, <hi>Levit.</hi> 14. 41, 44. but all the timber, and all the ſtones thereof muſt be thrown down to the ground, that a new buil<g ref="char:EOLhyphen"/>ding may be erected in its ſtead.</p>
+            <p n="3">3. Be ſure, this can ne<g ref="char:EOLhyphen"/>ver be attained until you come to a ſound and ſaving knowledg, both of your ſelf and Chriſt: 1. Of the emptineſs and vileneſs of your ſelf, ſo as to deny, abhor, and aban<g ref="char:EOLhyphen"/>don your ſelf; and 2. of Chriſts excellency and all-ſufficiency, ſo as to value him you all, and above all:
+<pb n="4" facs="tcp:43657:6"/>
+Indeed a full Chriſt and a vile nothing creature ag<g ref="char:EOLhyphen"/>grees beſt together.</p>
+            <p n="4">4. 'Twill be both your prudence and advantage to forbear the ſearching after the knowledg of other things, until you come to a ſolid knowledg of your ſelf, which is the one thing needful in Chriſtianity, and whereof Heatheniſm had ſome rude notion in its [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>:] to know your ſelf to be loſt in your ſelf, and never found a<g ref="char:EOLhyphen"/>gain till you be [found] in Chriſt, <hi>Phil.</hi> 3. 9.</p>
+            <p n="5">5. The more that you know your ſelf, the grea<g ref="char:EOLhyphen"/>ter will your ſelf-abhor<g ref="char:EOLhyphen"/>rency
+<pb n="5" facs="tcp:43657:6"/>
+be, <hi>Job</hi> 42. 6. This will make you cry out with <hi>Auguſtine, [a malo homine [meipſo] libera me domine.]</hi> From that evil man [my ſelf,] oh Lord, deli<g ref="char:EOLhyphen"/>ver me. You will find, that though ſatan be your great enemy, yet your own ſinful ſelf is the worſt: for Satan might ſtrike fire long enough without ſuc<g ref="char:EOLhyphen"/>ceſs, if your own evil heart did not find him tinder: the Tempter may beſiege the City long enough to no purpoſe, if there were not a treacherous party within, that lets down the drawbridge, and ſets open the gates to his troops of temptations.</p>
+            <p n="6">
+               <pb n="6" facs="tcp:43657:7"/>
+6. This knowledg of your ſelf will bring alſo greater diſſatisfaction with your preſent ſtate and ſtan<g ref="char:EOLhyphen"/>ding in ways of Unregene<g ref="char:EOLhyphen"/>racy, with your being without God, and with<g ref="char:EOLhyphen"/>out Chriſt in the world; making you cry out not only Unclean, unclean; but alſo Undone, undone; give me Chriſt or I die, and that to all eternity: I am condemn'd already, <hi>Joh.</hi> 3. 18, and the wrath of God abides upon me, <hi>ver.</hi> 36. oh, who dares live in an houſe that is haunted with evil ſpirits! or lodg in a cave that abounds with noyſome Toads and ve<g ref="char:EOLhyphen"/>nemous
+<pb n="7" facs="tcp:43657:7"/>
+Serpents! ſuch and far worſe is your ly<g ref="char:EOLhyphen"/>ing in an unrenewed eſtate.</p>
+            <p n="7">7. When you behold the avenger of blood to wit, Divine Juſtice) pur<g ref="char:EOLhyphen"/>ſuing you at the heels, his heart being <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot within him, a <hi>Deut.</hi> 19. 6, then is it high time for you to haſten to that bleſſed City of Refuge, the moſt excel<g ref="char:EOLhyphen"/>lent and all-ſufficient Lord Jeſus, who was purpoſe<g ref="char:EOLhyphen"/>ly provided of the Father to be a Saviour and ſanctu<g ref="char:EOLhyphen"/>ary to ſave us both from preſent wrath, and from wrath to come alſo, 2 <hi>Theſ.</hi> 1. 10. He is that Name of the Lord which the righ<g ref="char:EOLhyphen"/>teous
+<pb n="8" facs="tcp:43657:8"/>
+run [into] and are ſafe, <hi>Prov.</hi> 18. 10.</p>
+            <p n="8">8. In ſo doing, know for your encouragement, that the gates of this Sanctuary and City of Refuge ſhall not be ſhut againſt you. Firſt, the place of Chriſts birth encourages, which was an Inn, he was born [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] in one of <hi>Bethlehem's</hi> Inns, a place that receives all comers; all gueſts that come, are bid welcome. 2. The poſture of his death; Chriſt died upon the Croſs with his Arms ſpread wide aſunder, as in a poſture ready to embrace all penitent ſin<g ref="char:EOLhyphen"/>ners that come unto him,
+<pb n="9" facs="tcp:43657:8"/>
+and fall into his arms. <hi>Him that cometh unto me, I will [in no wiſe] caſt out, or keep out,</hi> Joh. 6. 37.</p>
+            <p n="9">9. And though you can<g ref="char:EOLhyphen"/>not run, or come faſt e<g ref="char:EOLhyphen"/>nough to Chriſt, yet Chriſt will come and run to you, and meet you better half way. While the penitent prodigal did but [come] to<g ref="char:EOLhyphen"/>wards his father, his fa<g ref="char:EOLhyphen"/>ther [ran] to meet him, <hi>and had compaſſion upon him, and fell on his neck and kiſſed him,</hi> Luk. 15. 20. Chriſt will be much better to you, than you will or can be to your ſelf; <hi>for he [can] have compaſſion on the ignorant, and on them that are out of</hi>
+               <pb n="10" facs="tcp:43657:9"/>
+               <hi>the way,</hi> Heb. 5. 2. And though you cannot bring your ſelf to Grace, yet Grace is [brought] to you by Chriſt.</p>
+         </div>
+         <div n="2" type="part">
+            <head>2. <hi>Of Carriage under the firſt workings of Chriſti<g ref="char:EOLhyphen"/>anity.</hi>
+            </head>
+            <p n="1">1. When the Lord Jeſus comes and ſtands <hi>knocking</hi> at the door of your heart with the <hi>hammer</hi> of his Word, and with the <hi>hand</hi> of his Spirit, then bow your ſelf with all your might (as <hi>Sampſon</hi> did) <hi>Judg.</hi> 16. 30, to pull back every bolt, and to draw in every bar, that would keep
+<pb n="11" facs="tcp:43657:9"/>
+the door ſhut againſt this bleſſed and bleeding Re<g ref="char:EOLhyphen"/>deemer. The duty indeed is yours, but the ability is his: as much as in you lyes, cauſe every luſt of your heart to make room for your dear Jeſus.</p>
+            <p n="2">2. Welcome Chriſt into your heart with joy. Say to him as <hi>Laban</hi> did to <hi>Abrahams</hi> ſervant, <hi>Come in thou bleſſed of the Lord [thou art welcome] wherefore ſtandeſt thou without?</hi> Gen. 24. 31. Chriſt will come to you with a bleſſing in his hand to beſtow on you, as he did to <hi>Jacob,</hi> Gen. 32. 26, <hi>&amp;c. David</hi> literal ſaith to his Son (that invi<g ref="char:EOLhyphen"/>ted
+<pb n="12" facs="tcp:43657:10"/>
+him to his houſe) <hi>Why ſhould we be chargeable to thee, my Son?</hi> 2 Sam. 13.25. But this David-ſpiritual will not be chargeable: whereſoever he comes, where he comes to ſup with any ſoul, he brings his ſupper with him, <hi>Revel.</hi> 3. 20, and eats but of his own honey-comb, and of his own honey, <hi>Cant.</hi> 5. 1. This bleſſed Gueſt brings his bleſſing with him, as the Ark did to the houſe of <hi>Obed-Edom.</hi>
+            </p>
+            <p n="3">3. When Chriſt is come into your houſe to dwell in your heart by faith, <hi>Epheſ.</hi> 3. 17, be careful to keep his habitation quiet and
+<pb n="13" facs="tcp:43657:10"/>
+comfortable; to this end you muſt adjure your cor<g ref="char:EOLhyphen"/>ruptions <hi>by the roes, and by the hinds of the field, that they ſtir not up nor awake your beloved until he pleaſe, Cant.</hi> 2. 7. 'Tis pity ſuch a bleſſed Gueſt ſhould meet with any diſturbance; lay Gods charge upon your luſts, ſaying to them as <hi>Lot</hi> did to the Sodomites, <hi>Gen.</hi> 19. 8, <hi>Only unto this Angel of the Lord, and this Lord of Angels, do nothing [of diſturbance] for therefore came he under the ſhadow of my roof:</hi> and as the good old man to the men of <hi>Gi<g ref="char:EOLhyphen"/>beah,</hi> Judg. 19. 23, <hi>Nay, I pray you do not ſo wickedly,</hi>
+               <pb n="14" facs="tcp:43657:11"/>
+               <hi>ſeeing this man</hi> [Chriſt Je<g ref="char:EOLhyphen"/>ſus] <hi>is come into my houſe, do not this folly to diſturb him.</hi>
+            </p>
+            <p n="4">4. Be oft admiring that bleſſed ſtate of Grace which God hath brought you into, out of the cur<g ref="char:EOLhyphen"/>ſed ſtate of ſin, and ſay with <hi>Peter</hi> at Chriſts Transfiguration, <hi>Maſter, 'tis good being here; let us build tabernacles, one for thee, and one for Moſes, and one for Elias;</hi> not one for himſelf, for he was ſo pleaſed with his preſent condition, that he could be content to lye out of doors, ſo he might enjoy the viſion of his Maſters
+<pb n="15" facs="tcp:43657:11"/>
+glory, <hi>Mat.</hi> 17.5, <hi>&amp;c.</hi> Say you with the <hi>Hebr.</hi> ſervant, <hi>I love my Maſter, he ſhall bore me through the ear, and I will ſtay with him for ever, Deut.</hi> 15. 16, 17. And with <hi>David</hi> you muſt reſolve to <hi>dwell in the houſe of the Lord for ever,</hi> Pſal. 23. 6. The <hi>purpoſe of your heart muſt be to cleave unto the Lord, Act.</hi> 11. 23.</p>
+            <p n="5">5. Be oft ſearching your heart in the ſenſe, 1. of the ſtate of ſin, out of which (as <hi>Iſrael out of the houſe of bondage, and out of the Iron furnace,</hi> Deut. 4. 20.) your God, your near kinſman, the Lord Jeſus, hath deliver'd you. 2. Of
+<pb n="16" facs="tcp:43657:12"/>
+the remainders of ſin, from which you are not clean<g ref="char:EOLhyphen"/>ſed to this day, you can<g ref="char:EOLhyphen"/>not chide it out of doors as <hi>Sarah</hi> did <hi>Hagar;</hi> you can<g ref="char:EOLhyphen"/>not ſhake it from off your heart as <hi>Paul</hi> did the Vi<g ref="char:EOLhyphen"/>per from off his hand; 'tis as <hi>Daniels</hi> Beaſts, <hi>whoſe dominion was taken away, but their lives were prolong'd for a time and a ſeaſon,</hi> Dan. 7. 12. This will ballaſt your new-found joy.</p>
+            <p n="6">6. Let your own ſelf-righteouſneſs ſtink and be abhorred by you, when the Righteouſneſs of Chriſt is brought to clothe you. The father brings forth the
+<pb n="17" facs="tcp:43657:12"/>
+beſt Robe for his ragged prodigal, <hi>Luk.</hi> 15. 22. When the firſt <hi>Adam</hi> had made himſelf naked by his ſin, he ſewed fig-leaves together, and made him<g ref="char:EOLhyphen"/>ſelf an apron; this was both too thin and too ſcant a covering, <hi>but the Lord made a coat of skins</hi> (of the Sacrifices) <hi>and clothed them, Gen.</hi> 3.7, 21. alas your own righteouſneſs is but a fig<g ref="char:EOLhyphen"/>leaf covering, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, no better than dogs-meat, or dung in <hi>Pauls</hi> eye, <hi>Phil.</hi> 3. 8, in compariſon of that coat made of the skin of the Lamb of God, which is call'd <hi>the Righteouſneſs of God,</hi> and therefore a better
+<pb n="18" facs="tcp:43657:13"/>
+righteouſneſs than that which <hi>Adam</hi> had, or that which Angels have; a gar<g ref="char:EOLhyphen"/>ment or robe that covers the whole ſinner from the angry eyes of offended Juſtice.</p>
+            <p n="7">7. Hunger after a taſt and touch of Chriſt in the pureſt &amp; powerfulleſt way of revealing himſelf to you in his Ordinances; ſet your ſelf under no means of Grace, without begging of God to ſpeak to your heart with a ſtrong hand, as he did to the Prophet <hi>Iſaiah,</hi> Iſa. 8. 11. think it not enough that the Mini<g ref="char:EOLhyphen"/>ſtry (you ſit under) is a <hi>lovely ſong</hi> to you, as <hi>Ezek.</hi>
+               <pb n="19" facs="tcp:43657:13"/>
+33. 32. but it muſt be a <hi>lively</hi> ſong alſo, that you may ſay with <hi>David, Gods word hath quickened me, Pſal.</hi> 119. 50. A divine touch in Gods Ordinances doth quicken us in Gods way, <hi>Pſal.</hi> 119. 37. You muſt know that Chriſt hath many <hi>followers,</hi> and but few <hi>touchers;</hi> when the multitude throng'd him, he had yet but one that <hi>touch'd</hi> him, ſo as to receive <hi>healing</hi> vertue from him, <hi>Mat.</hi> 9. 20. <hi>Luk.</hi> 8. 43, 44, 45, 46.</p>
+            <p n="8">8. Get ſolid proof of your intereſt in Chriſt: build not upon ſandy foun<g ref="char:EOLhyphen"/>dations, ſuch as 1. <hi>on gene<g ref="char:EOLhyphen"/>ral</hi>
+               <pb n="20" facs="tcp:43657:14"/>
+               <hi>mercy,</hi> as if he that made you, will undoubted<g ref="char:EOLhyphen"/>ly ſave you: If ſo, then Devils would be ſaved as well as men, for God made both, and both are his creatures. 2. Nor <hi>on good meanings;</hi> if thoſe would ſave you, then the word of God, and the blood of Chriſt are two ſuperfluous things. Nor 3. <hi>on an ex<g ref="char:EOLhyphen"/>ternal profeſſion,</hi> for the houſe of the fooliſh builder was (for ought we know to the contrary) as fair a fa<g ref="char:EOLhyphen"/>brick to look upon in ex<g ref="char:EOLhyphen"/>ternals, as that of the wiſe: and the main difference lay in the differing foundation, <hi>Mat.</hi> 7. 24, 26. The Rock
+<pb n="21" facs="tcp:43657:14"/>
+of ages (the Lord Jeſus) was not the foundation of both, but looſe earth, looſe notions and principles, ſuch as thoſe before mentioned.</p>
+            <p n="9">9. Be not poring and puzling too long about laying your foundation; but having once laid Chriſt (alone) your foundation, go then on to build upon it, <hi>[ſtrato ſuperſtruitur,]</hi> God ſaith to the Children of <hi>Iſrael, they muſt go for<g ref="char:EOLhyphen"/>ward,</hi> Exod. 14. 15. you muſt neither ſtand ſtill, nor ſtep backward, <hi>Non pro<g ref="char:EOLhyphen"/>gredi eſt regredi,</hi> not to go on, is to go back: 'Tis undoubtedly one of the wiles of Satan, and his de<g ref="char:EOLhyphen"/>vices,
+<pb n="22" facs="tcp:43657:15"/>
+(w<hi rend="sup">ch</hi> we are not to be ignorant of) to gravel graci<g ref="char:EOLhyphen"/>ous ſpirits about that foun<g ref="char:EOLhyphen"/>dation-truth of their Ele<g ref="char:EOLhyphen"/>ction, to keep them from making paſſage and pro<g ref="char:EOLhyphen"/>greſs in ways of Chriſtia<g ref="char:EOLhyphen"/>nity; our Lord himſelf was thus buffeted, in Sa<g ref="char:EOLhyphen"/>tans ſaying to him, once and again <hi>[If thou be the Son of God.]</hi> If this were done to that <hi>green</hi> tree, what can the <hi>dry</hi> expect: Whereas, if you can make your call<g ref="char:EOLhyphen"/>ing ſure (in the witneſſings of the Holy Ghoſt) you muſt take your Election for granted, ſeeing that Electi<g ref="char:EOLhyphen"/>on-love is the <hi>cauſe</hi> and Vo<g ref="char:EOLhyphen"/>cation-love the <hi>effect;</hi> now
+<pb n="23" facs="tcp:43657:15"/>
+the effect is the manifeſtati<g ref="char:EOLhyphen"/>on of the cauſe; do but make your calling ſure, and therein you make your Election ſure alſo, 2 <hi>Pet.</hi> 1. 10.</p>
+            <p n="10">10. Take heed you blot nor blurr not your Evidences for Heaven by any looſe and extravagant Actions; for ſuppoſe you cannot (if you be a true Chriſtian) loſe your Salva<g ref="char:EOLhyphen"/>tion, yet may you loſe the joy of your Salvation, as <hi>David</hi> did, <hi>Pſal.</hi> 51. 12. This indeed is the bleſſing of the Covenant of Grace, that though it doth permit a fall, yet it always enſures Repentance after the fall:
+<pb n="24" facs="tcp:43657:16"/>
+notwithſtanding, you may get ſuch falls as may break your bones, and it may coſt you both much pain, and much pains, before the Lord make you <hi>to hear of joy and gladneſs, that the bones which are broken</hi> (by your fall) <hi>may rejoice,</hi> Pſal. 51. 8.</p>
+         </div>
+         <div n="3" type="part">
+            <head>3. <hi>Of the Exerciſe of Spi<g ref="char:EOLhyphen"/>ritual life.</hi>
+            </head>
+            <p n="1">1. Walk cloſe with God in your general and parti<g ref="char:EOLhyphen"/>cular calling, and be careful that the one do not juſtle out the other; as there is a time for all things, ſo there is a time for both
+<pb n="25" facs="tcp:43657:16"/>
+thoſe: your general calling muſt not thruſt out your particular; that is but a temptation, and not a du<g ref="char:EOLhyphen"/>ty: neither muſt your par<g ref="char:EOLhyphen"/>ticular calling thruſt out your general, for that is to love the world more than God, and to ſerve your ſelf altogether, and not the Lord Chriſt at all. It was the ſin of <hi>Cain,</hi> that he did not divide aright for God; the duties of your general calling (faithfully perfor<g ref="char:EOLhyphen"/>med) muſt ſanctifie all the duties of your particular calling.</p>
+            <p n="2">2. Be oft at home com<g ref="char:EOLhyphen"/>muning with your own heart, <hi>Pſal.</hi> 4. 4. and pro<g ref="char:EOLhyphen"/>pounding
+<pb n="26" facs="tcp:43657:17"/>
+queſtions to it, ſuch as theſe: 1. Whoſe am I? am I one that belongs to God, or do I belong to Satan? 2. Whom ſerve I? do I ſerve Chriſt, or do I ſerve Sin? The bleſſed Apoſtle could anſwer both thoſe queſtions, <hi>Act.</hi> 27. 23. <hi>[There ſtood by me this night the Angel of God, whoſe I am, and whom I ſerve.]</hi> And 3. What am I? am I a veſſel of wrath, or am I a veſſel of mercy? am I a child of God, or am I a child of the devil? 4. Where am I? <hi>Adam, where art thou?</hi> as God ſaid ſo to <hi>Adam,</hi> ſo you muſt ſay ſo to your own
+<pb n="27" facs="tcp:43657:17"/>
+ſoul, Where art thou ſoul? art thou in the broad way that leads to death and damnation? or art thou in the narrow way that leads to life and ſalvation? and if at any time you find your ſpirit looſe and extra<g ref="char:EOLhyphen"/>vagant in broad ways of the world, then cry to your ſelf, as God to <hi>Elijah, What doſt thou here Elijah?</hi> 1 <hi>King.</hi> 19. 13. ſo gird up the loyns of your mind a<g ref="char:EOLhyphen"/>gain. <hi>Luk.</hi> 12. 35.</p>
+            <p n="3">3. Know that your heart will be backward to this communing work, <hi>Fugitivi ſumus acordibus noſtris,</hi> ſaith <hi>Auguſtine;</hi> we flee from our own hearts, and
+<pb n="28" facs="tcp:43657:18"/>
+our own hearts flee as faſt and as far from us. 'Tis pity we ſhould carry hearts about with us in our bo<g ref="char:EOLhyphen"/>ſoms for twenty, thirty, forty or fifty years, ſome more, if ſome leſs) and yet be ſuch ſtrangers to them, and they to us; account it therefore your great loſs that you know your own heart no better, that you commune with it no oft<g ref="char:EOLhyphen"/>ner; alas, we know not our own hearts, <hi>Am I a dog,</hi> (ſaith <hi>Hazael) that I ſhould do ſo and ſo?</hi> 2 <hi>King.</hi> 8. 13. Yet ſuch a dog was he in wickedneſs when he came to his opportunity; you muſt tremble to be left in
+<pb n="29" facs="tcp:43657:18"/>
+the hands of your own counſel; as <hi>Hezekiah</hi> was left to himſelf, to try him (not the ſtrength of his grace as <hi>Abraham</hi> was, <hi>Gen.</hi> 22. 1, but his frailty and proneneſs to ſin) and to let him know all that was in his heart, 2 <hi>Chron.</hi> 32. 31. When Satans Tem<g ref="char:EOLhyphen"/>ptation hath an opportuni<g ref="char:EOLhyphen"/>ty to draw out your cor<g ref="char:EOLhyphen"/>ruption, then and there is your moſt eminent danger.</p>
+            <p n="4">4. Seeing your heart will not ſtand to parley, do you bind it to good beha<g ref="char:EOLhyphen"/>viour, and lay Gods charge upon it that it ſtir not in this parleying work, till you have made ſome work
+<pb n="30" facs="tcp:43657:19"/>
+of your work, and brought it to ſome bleſſed iſſue; know, that never did the Sacrifice (under the Law) ſtand more in need of bind<g ref="char:EOLhyphen"/>ing with cords to the horns of the Altar, <hi>Pſal.</hi> 118.27, than your looſe &amp; ſlippery heart doth with all obliga<g ref="char:EOLhyphen"/>tions (and all little enough) unto holy duties; hence is it that ſelf-examination is ſo hard a duty; no ſooner are we in it, but (ere ever we be aware) we are out of it again.</p>
+            <p n="5">5. When ye have (through grace) fixed your heart, and are able to ſay (with <hi>David) My heart is fixed, O God, my heart is fixed,</hi>
+               <pb n="31" facs="tcp:43657:19"/>
+               <hi>Pſal.</hi> 57. 7, (which un<g ref="char:EOLhyphen"/>doubtedly is as hard to fix (to good) as quick-ſilver is, that hath a principle of motion in it, but not of reſt) then fall upon Conſi<g ref="char:EOLhyphen"/>deration-work (which is the excellency of a man a<g ref="char:EOLhyphen"/>bove the beaſt; then con<g ref="char:EOLhyphen"/>ſider and better conſider the four queſtions afore<g ref="char:EOLhyphen"/>ſaid, and the tendency of all your ways, <hi>[Ponder the path of thy feet,</hi> Prov. 4.26.] to wit, by the weights of the Word of God do you oft poize them: Conſide<g ref="char:EOLhyphen"/>ration is the ſtay of our thoughts, which are as ſwift as any ſhip. Conſide<g ref="char:EOLhyphen"/>ration is as an Anchor to
+<pb n="32" facs="tcp:43657:20"/>
+them. God bids his people, <hi>Conſider their ways,</hi> twice over, <hi>Hag.</hi> 1. 5, 7, do it once and again.</p>
+            <p n="6">6. You may know where you are, if you ſeriouſly and throughly conſider the frame of your own ſpirit: the way to hell is a broad way; and he that is all for elbow-room, and for a wide way to be extrava<g ref="char:EOLhyphen"/>gant in, and likes not the ſtrict way of Religion (which is ſo called from its ſtrict binding up our hearts from looſneſs, <hi>a religando<g ref="char:punc">▪</g>
+               </hi> is a broad way man, that ſays (with <hi>Jeroboam) 'tis too much for you to go up to Jeruſalem,</hi> 1 King. 12. 28,
+<pb n="33" facs="tcp:43657:20"/>
+'tis too much for you to be ſo preciſe, and ſo ſtrait-la<g ref="char:EOLhyphen"/>ced; <hi>Let us break thoſe bands aſunder, and caſt a<g ref="char:EOLhyphen"/>way thoſe cords from us,</hi> Pſal. 2. 3. <hi>[Medice vivere, eſt mi<g ref="char:EOLhyphen"/>ſere vivere,]</hi> to live ſtrictly by a Rule, is to live miſer<g ref="char:EOLhyphen"/>ably, both for ſoul and bo<g ref="char:EOLhyphen"/>dy. <hi>Spiritus Religioſus eſt ſpiritus melancholicus; Let us eat and drink, for to morrow we ſhall die.</hi> Iſa. 22. 12, 14. 1 Cor. 15. 32.</p>
+            <p n="7">7. You have this exem<g ref="char:EOLhyphen"/>plified in <hi>Noah</hi>'s Raven and Dove, <hi>Gen.</hi> 8.7, 9, 11. you may not be as the Raven that was accuſtom'd to live at large, becomes wea<g ref="char:EOLhyphen"/>ry of being caged up in the
+<pb n="34" facs="tcp:43657:21"/>
+Ark, and likes not ſuch ſtrait limits any longer, therefore ſhe flutters about the Ark, but went not in, as not willing to be confi<g ref="char:EOLhyphen"/>ned to the ark either for diet or lodging any more, but chuſes rather to fly a<g ref="char:EOLhyphen"/>broad and to feed upon the carcaſes of the drowned.</p>
+            <p n="8">8. You muſt be like the Dove, which did not diſlike her conſinement, nor the diet and lodging of the ark, and therefore returns to it as the place of her reſt, and beſt repoſe, not finding bet<g ref="char:EOLhyphen"/>ter repaſt any where elſe. Thus thoſe are unclean Ra<g ref="char:EOLhyphen"/>vens, that are all for fleſhly liberty and licentiouſneſs,
+<pb n="35" facs="tcp:43657:21"/>
+and can feed upon ſtinking carrion of wickedneſs; but you muſt be Chriſts Dove, <hi>Cant.</hi> 2. 14, that can find no reſt for the ſoles of your feet but in him; you muſt (with others) flock to the windows of the Temple, <hi>Iſa.</hi> 60. 8. Chriſt your <hi>Noah,</hi> your Comforter, will put forth his hand to take you in; and there think his ſervice your wages (as well as your work) and not your wearineſs.</p>
+            <p n="9">9. Thus muſt you be ſe<g ref="char:EOLhyphen"/>rious in inquiring of your ſelf, whoſe you are, and whom you ſerve, yea and what you are, as well as where? whether in the
+<pb n="36" facs="tcp:43657:22"/>
+broad or narrow way: If conſideration be needful in all our undertakings, how much more in that for E<g ref="char:EOLhyphen"/>ternity! oh be not ſleight herein, but dwell with your thoughts upon it. You know, he that rides poſt through a Country, can never draw a diſtinct Map of that Countrey, which requires many pauſes for viewing every particular boundary, <hi>&amp;c.</hi> So if you ride poſt with your ſwift thoughts in your circuit thorough the Iſle of Man, you cannot take a diſtinct account of your ſelf in or<g ref="char:EOLhyphen"/>der to thoſe four grand Queſtions. You muſt walk
+<pb n="37" facs="tcp:43657:22"/>
+round about your ſelf, and go round that little world, as they did about Sion, <hi>Pſ.</hi> 48. 12, 13, that <hi>they might tell the towers thereof, and mark well her bulwarks, yea and [conſider] her palaces, &amp;c.</hi>
+            </p>
+            <p n="10">10. Then hath your Spi<g ref="char:EOLhyphen"/>ritual conſideration a bleſ<g ref="char:EOLhyphen"/>ſed iſſue, when you dwell upon it with your fixed thoughts, until Chriſt ap<g ref="char:EOLhyphen"/>pear your chiefeſt good, and ſin your chiefeſt evil: <hi>David</hi> did <hi>turn [his] ways upſide down,</hi> (as the <hi>Hebrew</hi> word <hi>[chiſhabli deraki]</hi> ſig<g ref="char:EOLhyphen"/>nifies, <hi>Pſal.</hi> 119. 59.) <hi>in his own ſecret thoughts and conſideration.</hi> The Noun of
+<pb n="38" facs="tcp:43657:23"/>
+which Verb, to wit, <hi>cheſheb,</hi> ſignifies, <hi>opus phrygionicum,</hi> an embroider'd garment, which is the ſame on both ſides; they that work them, muſt often turn them, firſt on one ſide, and then on the other. Thus <hi>David would turn [his] way every way,</hi> and muſt have them both ſides alike, both that ſide towards God, and that ſide towards man; for the ways of many men have a ſhining outſide towards man, and yet their inſide is rugged, uneven, and un<g ref="char:EOLhyphen"/>comely towards God. <hi>Sor<g ref="char:EOLhyphen"/>det in conſpectu judicis, quod fulget in conſpectu operan<g ref="char:EOLhyphen"/>tis;</hi> (ſaith the Father) but
+<pb n="39" facs="tcp:43657:23"/>
+Chriſt ſaith better, <hi>That which is highly eſteemed a<g ref="char:EOLhyphen"/>mongſt men, is an abominati<g ref="char:EOLhyphen"/>on in the ſight of God,</hi> Luk. 16. 15.</p>
+            <p n="11">11. As you muſt turn [your] ways every way, and upſide down according to the <hi>Hebrew</hi> reading of that, <hi>Pſal.</hi> 119. 59. So muſt you make a Dialogue with your ſelf according to the <hi>Greek</hi> reading. The <hi>Septuagint</hi> reads it, [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <hi>I made a dia<g ref="char:EOLhyphen"/>logue with my ſelf about my own ways;</hi> I argued this point to an iſſue, whe<g ref="char:EOLhyphen"/>ther the ways of God, or the ways of ſin were bet<g ref="char:EOLhyphen"/>ter; and when I underſtood
+<pb n="40" facs="tcp:43657:24"/>
+that the paths of ſin go down to death; I turned my feet from the ways of ſin to the ways of God. Thus muſt you upon ſound conſideration and delibera<g ref="char:EOLhyphen"/>tion find out ſin to be the way to Gods curſe, but Chriſt the way to Gods bleſſing. <hi>He is [the] way, Joh.</hi> 14. 6. <hi>Walk in him, Col.</hi> 2. 6.</p>
+            <p n="12">12. When ſin appears to you the greateſt evil (as Chriſt the greateſt good) then you cannot let any ſin live peaceably in you, no nor come peaceably to you, (be it little or great) you muſt have tenderneſs of ſpirit: <hi>Joſiah</hi> had a <hi>tender</hi>
+               <pb n="41" facs="tcp:43657:24"/>
+               <hi>heart,</hi> 2 King. 22. 19. 2 <hi>Chron.</hi> 34. 27. Such as are of tender Conſtituti<g ref="char:EOLhyphen"/>ons cannot endure the leaſt cold wind to blow upon them, therefore they cry [ſhut the caſement, and bolt the door,] I ſhall catch cold; thus to a tender heart, the leaſt cold air of ſin is irkſome: the door of your heart muſt be ſhut a<g ref="char:EOLhyphen"/>gainſt ſin (the greateſt evil), yet open for Chriſt (the chiefeſt good), <hi>Ezek.</hi> 44. 2, 3, <hi>That door is for the Prince, the Prince of life,</hi> no other gueſt muſt enter in.</p>
+         </div>
+         <div n="4" type="part">
+            <pb n="42" facs="tcp:43657:25"/>
+            <head>4ly, <hi>Of your Converſation reſpecting both others and your ſelf.</hi>
+            </head>
+            <p>1. In reſpect of others, both thoſe without and within.</p>
+            <p>1. To thoſe without.</p>
+            <p n="1">1. You muſt walk wiſe<g ref="char:EOLhyphen"/>ly to them, and honeſtly with them, <hi>Col.</hi> 4. 5. Nei<g ref="char:EOLhyphen"/>ther giving offence care<g ref="char:EOLhyphen"/>leſly, nor taking offence cauſeleſly, 1 <hi>Cor.</hi> 10. 32, <hi>Giving no offence to any, ei<g ref="char:EOLhyphen"/>ther Greek or Jew, but walk<g ref="char:EOLhyphen"/>ing handſomely,</hi> (as the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies) 1 <hi>Theſ.</hi> 4. 12. <hi>That by your well-doing you may not only</hi>
+               <pb n="43" facs="tcp:43657:25"/>
+               <hi>put to ſilence the ignorance of fooliſh men, ſtopping their mouths from ſpeaking evil of you,</hi> 1 <hi>Pet.</hi> 2. 15. But alſo by your convincing-life cauſe them to open their mouths in commending you, that all which ſee you, may acknowledg you, that you are a <hi>ſeed which the Lord hath bleſſed,</hi> Iſa. 61. 9.</p>
+            <p n="2">2. You may not be con<g ref="char:EOLhyphen"/>formed to the corrupt cu<g ref="char:EOLhyphen"/>ſtoms and courſes of this preſent evil world, <hi>Rom.</hi> 12. 2; eſpecially thoſe that are ſet down, <hi>Rom.</hi> 13. 13. <hi>Eph.</hi> 4. 18, 19, 20. 1 <hi>Pet.</hi> 4, 3. Plain <hi>Jacob</hi> can never be comely in the rough gar<g ref="char:EOLhyphen"/>ments
+<pb n="44" facs="tcp:43657:26"/>
+of prophane <hi>Eſau:</hi> but you muſt be transfor<g ref="char:EOLhyphen"/>med (or metamorphos'd as the word ſignifies) by the renewing of your heart and life, the old frame muſt be diſſolved, and a new one acquired, that you may prove (by your pra<g ref="char:EOLhyphen"/>ctice) what is good, that perfect and acceptable will of God, and ſhew to all men that <hi>[Ego non ſum E<g ref="char:EOLhyphen"/>go]</hi> I am not the ſame man I was, (as the Convert did to the Harlot ſolliciting him again to leudneſs) that all may behold an heart-changing, and a life-changing work wrought effectually in you.</p>
+            <p n="3">
+               <pb n="45" facs="tcp:43657:26"/>
+3. Be careful that the world outſtrip you not in any moral action; you may not do leſs than others, when your Lord com<g ref="char:EOLhyphen"/>mands you <hi>to do more than others,</hi> Mat. 5 47; as Chriſt hath done ſingular things for you (in ſhewing you ſingular grace and mercy) ſo he both expects and re<g ref="char:EOLhyphen"/>quires ſingular things from you; you muſt be <hi>eminent in good works,</hi> Tit. 2. 14. and get above others, having your feet where other mens heads are; <hi>The way of the righteous is above to the wiſe,</hi> Prov. 15. 24. He goes an higher way to work, than the ordinary
+<pb n="46" facs="tcp:43657:27"/>
+frame of the world; he knows, that more than the common ſtint is required of him, he muſt do that which the world will never do, and that is, he muſt walk [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] accurately, en<g ref="char:EOLhyphen"/>deavouring to get up to the very top of godlineſs, as the word in the original ſignifies, <hi>Eph.</hi> 5. 15.</p>
+            <p n="4">4. Let your righteouſ<g ref="char:EOLhyphen"/>neſs and innocency be as a breaſt-plate and brazen<g ref="char:EOLhyphen"/>wall to you againſt all re<g ref="char:EOLhyphen"/>proaches; knowing aſſured<g ref="char:EOLhyphen"/>ly, that there will be a Re<g ref="char:EOLhyphen"/>ſurrection of Names as well as of bodies at the laſt, <hi>Pſal.</hi> 37. 6, <hi>God will bring forth your righteouſneſs as the</hi>
+               <pb n="47" facs="tcp:43657:27"/>
+               <hi>morning-light;</hi> though the earth be covered with darkneſs while night laſts, yet the morning drives it away; while your life gives your reproaches the lye, God will clear up your wronged innocency; dirt may ſtick upon a mud<g ref="char:EOLhyphen"/>wall, but it will not do ſo upon Marble.</p>
+            <p n="5">5. Evermore account it better for you to ſuffer an hundred injuries, rather than to offer one; the lat<g ref="char:EOLhyphen"/>ter will bring guilt on you, but the former comfort. Had <hi>David</hi> ſhed the blood of <hi>Nabal,</hi> &amp;c. (from which he was prevented by <hi>Abi<g ref="char:EOLhyphen"/>gals</hi> prudence) it would un<g ref="char:EOLhyphen"/>doubtedly
+<pb n="48" facs="tcp:43657:28"/>
+have been grea<g ref="char:EOLhyphen"/>ter grief and offence of heart to him (as ſhe told him, 1 <hi>Sam.</hi> 25. 31.) than all his ſorrows and ſuffer<g ref="char:EOLhyphen"/>ings from bloody <hi>Saul. Abigail</hi> argued thus with him, As thou never took revenge heretofore, ſo thou may not now; and <hi>David</hi> bleſſes God for preventing him, <hi>v.</hi> 32.</p>
+            <p n="6">6. Beware the ſociety of ſuch perſons, from which you cannot come off with<g ref="char:EOLhyphen"/>out either guilt or grief, and amongſt whom you muſt either countenance ſin, or contract ſin. While <hi>Peter</hi> was warming his hands (amongſt the ene<g ref="char:EOLhyphen"/>mies
+<pb n="49" facs="tcp:43657:28"/>
+of Chriſt in the Hall, <hi>Luk.</hi> 22. 55, 56, <hi>&amp;c.</hi> alas, his heart froze into a ſtupe<g ref="char:EOLhyphen"/>faction, which melted not till a look of love from the Sun of Righteouſneſs kind<g ref="char:EOLhyphen"/>ly thawed it again, <hi>v.</hi> 61. as the Sun of the Firma<g ref="char:EOLhyphen"/>ment doth when it looks upon a bank of ſnow. Evil company is contagious, and ſin is more catching than the plague; <hi>Peter</hi> out of curioſity (to ſee the iſſue of Chriſts Captivity) ſat with the ſervants of Chriſt-murderers, and ſo tempts Satan to tempt him; no doubt but the damoſel was ſet on by the devil to occaſion <hi>Peters</hi> denying Chriſt.</p>
+            <p n="7">
+               <pb n="50" facs="tcp:43657:29"/>
+7. Be not too talkative amongſt thoſe where pro<g ref="char:EOLhyphen"/>vidence caſts you. Conſi<g ref="char:EOLhyphen"/>der, God hath given you two ears, and but one tongue, yea, and that ſhut up with a double door, the one of fleſh, and the other of bone, to wit, your lips and your teeth; this ſhould teach you to ſpeak ſparing<g ref="char:EOLhyphen"/>ly, and to hear twice as much as you ſpeak; and when you ſpeak let your ſpeech be favory, ſeaſoned with ſalt (of a gracious ſpi<g ref="char:EOLhyphen"/>rit) <hi>Col.</hi> 4. 6; the ſalt of grace muſt preſerve your common communication from putrefaction and rot<g ref="char:EOLhyphen"/>tenneſs; leave you the
+<pb n="51" facs="tcp:43657:29"/>
+favour of Grace in all com<g ref="char:EOLhyphen"/>panies where you come.</p>
+            <div n="2" type="section">
+               <head>2dly, <hi>Your Converſation to thoſe that are within.</hi>
+               </head>
+               <p n="1">1. As you may not be blind in charity, ſo neither muſt you be raſh in cen<g ref="char:EOLhyphen"/>ſure; 'tis better to be o<g ref="char:EOLhyphen"/>ver credulous than over ſuſpicious, and over cenſo<g ref="char:EOLhyphen"/>rious. God puts a charita<g ref="char:EOLhyphen"/>ble conſtruction upon the caſe of the betrothed Da<g ref="char:EOLhyphen"/>moſel, <hi>Deut.</hi> 22.27, as there was none to ſave her, ſo there was none to hear her; yet 'tis taken for granted there, that in ſuch a caſe, ſhe cried out, therefore ſhe
+<pb n="52" facs="tcp:43657:30"/>
+ſhall not die: this ſhews us, that always in doubtful caſes, we ſhould put on the beſt conſtruction.</p>
+               <p n="2">2. Be ſure you ſee grace, where ſin is; as well as ſin, where grace is: Keep warm your love to thoſe that truly fear God, becauſe of thoſe graces that ſhine forth in them; and take heed of leſſening your love to them, becauſe of thoſe Infirmities that do attend them; 'tis pity the worſt part ſhould be ſeen, and the beſt part either not ſeen, or (at leaſt) not ac<g ref="char:EOLhyphen"/>knowledged; the Lord (himſelf) would not <hi>ſee ini<g ref="char:EOLhyphen"/>quity in Jacob, nor ſorcery</hi>
+                  <pb n="53" facs="tcp:43657:30"/>
+                  <hi>in Iſrael,</hi> Numb. 23. 21. When there was <hi>(non pec<g ref="char:EOLhyphen"/>catum flammans)</hi> no fla<g ref="char:EOLhyphen"/>ming ſin at that time among them in his eye, and there<g ref="char:EOLhyphen"/>fore <hi>Balaam</hi> counſelled their enemies to entice them to fornication, which would be a flaming God-provoking ſin; enormities indeed cannot, but infir<g ref="char:EOLhyphen"/>mities may and ought to be covered with a mantle of love; God is a good copy to write after.</p>
+               <p n="3">3. Take heed of imita<g ref="char:EOLhyphen"/>ting the greateſt favourite heaven in any of his fail<g ref="char:EOLhyphen"/>ings; you are (indeed) compaſſed about with a great cloud of Witneſſes
+<pb n="54" facs="tcp:43657:31"/>
+in the ſacred Scriptures; <hi>Heb.</hi> 12.1. yet know, that this cloud like that cloud in the Wilderneſs) hath a black ſide as well as a bright; to wit, their in<g ref="char:EOLhyphen"/>firmities are recorded, as well as their graces; you may not imitate <hi>Joſeph</hi> in his ſwearing, but you muſt in his chaſtity; you may not follow <hi>Job</hi> in his paſſi<g ref="char:EOLhyphen"/>on and impatiency, but you muſt in his patience and piety; and ſo of the reſt. The frailties of thoſe emi<g ref="char:EOLhyphen"/>nent Saints are regiſtred in holy writ, juſt as danger<g ref="char:EOLhyphen"/>ous Rocks are marked out at Sea, not to run upon them, but to ſhun them:
+<pb n="55" facs="tcp:43657:31"/>
+they are penned down as examples of caution, but not of imitation. You muſt know, that they which fol<g ref="char:EOLhyphen"/>low'd the dark ſide of the cloud (in the Red-ſea) were <hi>Egyptians,</hi> and were drow<g ref="char:EOLhyphen"/>ned; but they that follow'd the bright ſide of it were <hi>Iſraelites,</hi> and paſſed ſafe, not only over the Red-ſea, but into <hi>Canaan.</hi>
+               </p>
+               <p n="4">4. Have not the faith of Chriſt with reſpect of perſons, but be careful to love grace in rags, as well as in robes: Grace may (indeed) commend Gold, but Gold can never com<g ref="char:EOLhyphen"/>mend Grace; the leſſer muſt be bleſt of the grea<g ref="char:EOLhyphen"/>ter:
+<pb n="56" facs="tcp:43657:32"/>
+'tis true, that Gold may beautifie the Temple, but 'tis ſtill the Temple that ſanctifies the Gold. Per<g ref="char:EOLhyphen"/>ſons (though never ſo rich, or never ſo richly arrayed) are at the beſt but ſilken duſt, and they may be no better than golden dam<g ref="char:EOLhyphen"/>nation.</p>
+            </div>
+            <div n="2" type="section">
+               <head>
+                  <hi>The ſecond part of your Converſation is that which reſpects your ſelf,</hi> &amp;c.</head>
+               <p n="1">1. Be not quick-ſighted abroad, and blind at home; this is to be a <hi>Benzoma,</hi> as the <hi>Hebrews</hi> phraſe it, to be extravagant, or ſeldom at home, (as the Harlot,
+<pb n="57" facs="tcp:43657:32"/>
+                  <hi>Prov.</hi> 7. 11.) ſeldom com<g ref="char:EOLhyphen"/>muning with your own heart; you muſt hate ſin in others, but eſpecially in your ſelf; know that your heart is full of Harlotry; and if you ſeek your ſelf too much abroad, you will (at laſt) find your ſelf but loſt at home; but if you be much at home (as indeed the greateſt part of the work of a Chriſtian lies within doors<g ref="char:punc">▪</g> then ſin will not dare to haunt your houſe or heart; or how<g ref="char:EOLhyphen"/>ever neither ſins little or great can then live peacea<g ref="char:EOLhyphen"/>bly within you.</p>
+               <p n="2">2. Be ſure you give not place to little ſins, for they
+<pb n="58" facs="tcp:43657:33"/>
+will wear away the tender<g ref="char:EOLhyphen"/>neſs of your Conſcience, and like little thieves (cree<g ref="char:EOLhyphen"/>ping in at the windows) they will open the door for great ones; little wedges do make way for the grea<g ref="char:EOLhyphen"/>ter, and ſo your ſoul may be cloven aſunder thereby: every ſin (be it ſmall or great) ſhould be a ſtranger to you, and not an home-dweller in you. Thus <hi>Da<g ref="char:EOLhyphen"/>vids</hi> ſin was but a traveller, that came only to viſit him, but not to take up any con<g ref="char:EOLhyphen"/>tinuing lodgings with him. Thus 'tis ſaid in <hi>Nathans</hi> Parable, <hi>there came a tra<g ref="char:EOLhyphen"/>veller unto the rich man,</hi> 2 <hi>Sam.</hi> 12. 4. It is Chriſt
+<pb n="59" facs="tcp:43657:33"/>
+(and not ſin) that muſt lye all night between the Spou<g ref="char:EOLhyphen"/>ſes breaſts, <hi>Cant.</hi> 1. 13; ſhe will have no home-dweller but Chriſt.</p>
+               <p n="3">3. Live not at random, but ſquare your life by the rule of Righteouſneſs, (to wit, the word of God) in thought, word, and deed; and account every tranſ<g ref="char:EOLhyphen"/>greſſion of that rule to be your ſin; at night call your faithleſs heart to a faithful account how oft, and how much you have come ſhort of that rule the day paſt; a ſenſible frame of ſpirit will eaſily find out, that Gods <hi>Com<g ref="char:EOLhyphen"/>mandments are exceeding</hi>
+                  <pb n="60" facs="tcp:43657:34"/>
+                  <hi>broad,</hi> Pſal. 119. 96, but your obedience is exceed<g ref="char:EOLhyphen"/>ing narrow, and that your ſins are more in number than the hairs upon your head, <hi>Pſal.</hi> 40. 12: ſo in<g ref="char:EOLhyphen"/>numerable, that you can<g ref="char:EOLhyphen"/>not reckon them, <hi>(who can tell the errors of his life? Pſal.</hi> 19. 12,) and if you cannot reckon them, ſure I am, you can never be able to reckon for them, that muſt be the work of your bleſſed Surety, our dear Lord Jeſus.</p>
+               <p n="4">4. Let not any one tranſ<g ref="char:EOLhyphen"/>greſſion of that divine rule, live peaceably in you, not ſo much as a vain thought muſt take up lodgings in
+<pb n="61" facs="tcp:43657:34"/>
+your heart, <hi>Jer.</hi> 4. 14; as water that is ſprung into a ſhip, is preſently pumpt out again in leaky Veſſels for fear of ſinking. So when any ſoul-ſinking ſin ſprings in upon you which certain<g ref="char:EOLhyphen"/>ly will come faſter in than water into a Veſſel at Sea), then be ſure you ply the pump of Prayer and Repentance, and never give over pumping, till your Veſſel be cleanſed, and till you have ſome ſenſe that your ſin is pardoned; you will not go to bed with a bone out of joint, but it muſt be ſet right with ex<g ref="char:EOLhyphen"/>pedition; 'tis pity that the ſoul (disjointed with
+<pb n="62" facs="tcp:43657:35"/>
+ſin) ſhould be ſo long neg<g ref="char:EOLhyphen"/>lected.</p>
+               <p n="5">5. 'Tis a bleſſed frame of ſpirit to nouriſh in you both the ſenſe of your own ſin, and the fear of Gods wrath for your ſin: The heavier that your ſins are to you, the lighter will your afflictons be on you; 'tis wind and rain coming both together, that makes the ſtorm upon our bodies. So 'tis ſin and affliction joining both together, that makes the ſtorm in our ſouls; when your ſin is your burden, 'tis then re<g ref="char:EOLhyphen"/>pented of, and ſo pardon<g ref="char:EOLhyphen"/>ed; this will make your af<g ref="char:EOLhyphen"/>fliction a far lighter bur<g ref="char:EOLhyphen"/>den.</p>
+               <p n="6">
+                  <pb n="63" facs="tcp:43657:35"/>
+6. Take heed of putting holineſs upon you as a looſe garment, to caſt off or on at pleaſure (according to your differing companies and occaſions), but be ſure that you gird it cloſe to you with the golden girdle of truth, <hi>Epheſ.</hi> 6. 14, that in all places you may be what you ſeem to be; that you be to God, what you ſeem to be to man; and that you be to God at all times, what you ſeem to be to man at any time.</p>
+               <p n="7">7. Take heed of grie<g ref="char:EOLhyphen"/>ving the good Spirit of God, <hi>wherewith you are ſealed to the day of Redem<g ref="char:EOLhyphen"/>ption,</hi> Epheſ. 4. 30; and
+<pb n="64" facs="tcp:43657:36"/>
+                  <hi>which is a delicate thing</hi> (as ſome reads, <hi>Pſal.</hi> 143. 10,) <hi>res delicata eſt ſpiritus tu<g ref="char:EOLhyphen"/>us;</hi> and therefore loves to live in a clean houſe, in a clean heart. 'Tis a foul fault to grieve an earthly father; but 'tis far greater to grieve this holy Spirit: If you grieve the Holy Ghoſt, how can you ex<g ref="char:EOLhyphen"/>pect that he ſhould com<g ref="char:EOLhyphen"/>fort you? When you are grieved, you cannot do your work as you are wont, and neither can the Holy Spirit do his work in and for you: a gueſt that is grieved, may leave the houſe that grieves him; ſo this delicate thing (the
+<pb n="65" facs="tcp:43657:36"/>
+Spirit of God) may leave your houſe deſolate, when grieved with your ſins, <hi>Mat,</hi> 23. 38; and then wo to you if God and his good ſpirit depart from you, <hi>Hoſ.</hi> 9. 12.</p>
+               <p n="8">8. But above all, take <hi>heed of quenching the ſpirit,</hi> 1 <hi>Theſ.</hi> 5. 19, to wit, in his motions and graces: If God have kindled from heaven the holy fire upon the altar of your heart, be careful that it be kept bur<g ref="char:EOLhyphen"/>ning there continually (in your love to Chriſt, and zeal for him) it muſt never go out, <hi>Lev.</hi> 6. 12, 13. You muſt ſtir up this fire (as the Apoſtle counſelleth, 2 <hi>Tim.</hi>
+                  <pb n="66" facs="tcp:43657:37"/>
+1.6, and not deſpiſe Pro<g ref="char:EOLhyphen"/>phecying; for the Prieſts lips blows it up into a flame; it may be quenched either by withdrawing of fuel, to wit, neglect of Or<g ref="char:EOLhyphen"/>dinances; or by caſting on water, to wit, by falling into foul courſes: you muſt beware of both.</p>
+               <p n="9">9. Be not aſhamed to become a <hi>fool for Chriſt,</hi> 1 <hi>Cor.</hi> 3. 18. Self-conceit, ſelf-will, and ſelf-love, (like <hi>Noahs</hi> three Sons) hath ſpread themſelves over the whole World; you muſt deny your own ſelf-con<g ref="char:EOLhyphen"/>ceit and carnal wiſdom: you muſt account your ſelf more brutiſh than any
+<pb n="67" facs="tcp:43657:37"/>
+man, (with <hi>Agur, Prov.</hi> 30. 2, 3,) when you come to <hi>Ithiel</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>cal</hi> (which is Chriſt, both goodneſs and power) to be inſtructed in Chriſts ſchool, <hi>Act.</hi> 4. 13. Remember it was the De<g ref="char:EOLhyphen"/>vil that ſpoke in the ſubtile Serpent, <hi>Gen.</hi> 3. 4; and it was God that ſpake in the ſilly Aſs, <hi>Numb.</hi> 22. 28. Remember alſo, how it was an Aſs that carried Chriſt to <hi>Jeruſalem,</hi> Mat. 21.5.</p>
+               <p n="10">10. Yet, though you muſt be as ſilly as Doves, you muſt alſo be as <hi>wiſe as Serpents,</hi> Mat. 10. 16. You muſt have the ſillineſs and the meekneſs of wiſdom, <hi>Jam.</hi> 3. 13. As you muſt
+<pb n="68" facs="tcp:43657:38"/>
+be wiſe to ſalvation, ſo you may be wiſe to ſafety in Gods way, and not caſt your ſelf upon needleſs dangers; Chriſtianity al<g ref="char:EOLhyphen"/>lows you as much of the Serpent as of the Dove; the Dove without the Ser<g ref="char:punc">▪</g> is eaſily entangled, and the Serpent without the Dove is venomouſly hurtful; the head of the Serpent, and the heart of the Dove makes up the beſt and the moſt bleſſed compoſition; piety without policy is too ſimple to be ſafe; and po<g ref="char:EOLhyphen"/>licy without piety is too ſubtile to be good.</p>
+               <p n="11">11. You muſt chuſe any ſuffering rather than the
+<pb n="69" facs="tcp:43657:38"/>
+eaſt ſinning; you muſt not chuſe iniquity rather than affliction, <hi>Job</hi> 36. 21, for there is more evil in the leaſt ſin, than in the grea<g ref="char:EOLhyphen"/>teſt ſuffering, in as much as Moral evil is far worſe and greater than that which is meerly Natural: <hi>Quas non ergo oportet mor<g ref="char:EOLhyphen"/>tes praeeligere,</hi> ſaith <hi>Zu<g ref="char:EOLhyphen"/>inglius;</hi> therefore what deaths ought not a man rather to make choice of, what torments not rather undergo, yea into what deepeſt gulf of Hell (it ſelf) not rather enter, than wittingly and willingly to ſin the leaſt ſin againſt God? The ancient Martyrs
+<pb n="70" facs="tcp:43657:39"/>
+would not accept of deli<g ref="char:EOLhyphen"/>verance upon ignoble and the ſinful terms, <hi>Hebrews</hi> 11. 35. They would not throw ſo much as one grain of frankincenſe to the Idol, though it would have ſaved their own lives; hence <hi>Daniel</hi> choſe rather to be caſt to the Lions, than to violate his Conſcience, and ſo to have a lion roaring in his boſome; he knew that in an angry Conſcience he might feel the unbearable ſtrokes of an angry God; and a man had better anger all the Witches in the world, yea and all the De<g ref="char:EOLhyphen"/>vils in hell, than anger God.</p>
+               <p n="12">
+                  <pb n="71" facs="tcp:43657:39"/>
+12. You may not do the leaſt evil, no, not for the procuring of the greateſt good, <hi>Rom.</hi> 3. 8; do no e<g ref="char:EOLhyphen"/>vil, that good may come. If a lie would ſave your life, you may not tell it: Gods people are children that will not lie, (as their father is a God that can<g ref="char:EOLhyphen"/>not lie), <hi>Iſa.</hi> 63. 8; they will rather die than lie. <hi>Non ideo negare volo, ne peream; ſed ideo mentiri nolo, ne peocem:</hi> I will not therefore deny, leaſt I pe<g ref="char:EOLhyphen"/>riſh; but therefore will I not lie, leaſt I ſin, ſaid the good woman upon the Rack: of whom St. <hi>Jerome</hi> writeth. And <hi>Auſtin</hi> ſaith,
+<pb n="72" facs="tcp:43657:40"/>
+That a man ought not to tell a lie, though he might ſave the whole World from Hell thereby; for there is more evil in one lie, than there is good (ſaith he) in the ſalvation of all the World: and he would chuſe Hell rather than ſin, if ſet before him for choice. Thus the Primitive Chri<g ref="char:EOLhyphen"/>ſtians cried, <hi>[Ad Leones potius quam ad Lenones,]</hi> Throw us to your Lions, rather than to your Har<g ref="char:EOLhyphen"/>lotry; though this would ſave our lives, yet would it deſtroy our ſouls. The <hi>Ar<g ref="char:EOLhyphen"/>menian</hi> Mouſe will die (ſome write) rather than be defiled with filth: in<g ref="char:EOLhyphen"/>ſomuch
+<pb n="73" facs="tcp:43657:40"/>
+that if her hole be beſmeared with dirt, ſhe rather chuſes to be taken than polluted. Such ought all the ſervants of God to be.</p>
+               <p n="13">13. Examine your call from God for every action you undertake; be oft cry<g ref="char:EOLhyphen"/>ing <hi>[Quo warranto?]</hi> what warrant have I for this or that from the Lord, whom I ought to obey in all things: and for this end, mind thoſe four voices; 1. Of Providence, how it calls you: 2. Of Conſci<g ref="char:EOLhyphen"/>ence, what ſatisfaction you find there both concerning the lawfulneſs and the ex<g ref="char:EOLhyphen"/>pediency of the action:
+<pb n="74" facs="tcp:43657:41"/>
+3. Of the word, which ought to warrant all our actions, as it is the rule of all Righteouſneſs: and <hi>4ly,</hi> of the Spirit, which gives its teſtimony to all the aforeſaid (the fruits of the Spirit is in all, <hi>good<g ref="char:EOLhyphen"/>neſs, and righteouſneſs, and truth,</hi> Eph. 5. 9.) and wit<g ref="char:EOLhyphen"/>neſſes with our ſpirits that we are in Gods way, and in our own duty: The voice of Providence alone may deceive you, as it might have done <hi>David,</hi> had <hi>Abiſhai</hi>'s apprehenſi<g ref="char:EOLhyphen"/>ons prevailed with him (as 1 <hi>Sam.</hi> 26. 8. <hi>God hath de<g ref="char:EOLhyphen"/>livered thine enemy</hi> (Saul) <hi>into thine hand this day,)</hi>
+                  <pb n="75" facs="tcp:43657:41"/>
+he would not have <hi>David</hi> to tempt God any longer by letting ſlip this ſo fair an opportunity; but holy <hi>David</hi> had the three other voices to hearken unto, as well as that voice of Provi<g ref="char:EOLhyphen"/>dence, <hi>ver.</hi> 9, 10, 11, nei<g ref="char:EOLhyphen"/>ther the Word would war<g ref="char:EOLhyphen"/>rant him, nor his own ſpi<g ref="char:EOLhyphen"/>rit, nor the ſpirit of God; which laſt hinder'd <hi>Paul</hi> and <hi>Silas</hi> from going into <hi>Aſia</hi> and <hi>Bithynia,</hi> Act. 16. 6, 7.</p>
+               <p n="14">14. In things wherein ſelf may ſway, it is ſafeſt for you to be paſſive; in ſuch caſes you will be ſtrongly tempted (both by a ſubtil devil, and by a de<g ref="char:EOLhyphen"/>ceitful
+<pb n="76" facs="tcp:43657:42"/>
+heart) to out-run God both in his Promiſes, and in his Providences; as <hi>Iſrael</hi> in <hi>Numb.</hi> 14.40, <hi>We will go up unto the place which the Lord hath pro<g ref="char:EOLhyphen"/>miſed:</hi> they muſt needs go up that very morning, for ſelf ſwayed their hearts that way, though the pil<g ref="char:EOLhyphen"/>lar of Providence (which was their guide by night, and by day) did not go before them; and though they plead Gods promiſe, yet they did not conſider, Gods promiſes are fealed, but they are not dated: You muſt wait therefore (in ſuch caſes of ſelf) Gods time; your time will be
+<pb n="77" facs="tcp:43657:42"/>
+always ready, when Gods time is not yet, <hi>Joh.</hi> 7. 6. You would have your wa<g ref="char:EOLhyphen"/>ter of affliction turned in<g ref="char:EOLhyphen"/>to the wine of conſolation at your time: but Chriſt ſaith to you as he ſaid to his Mother, <hi>What have I to do with thee, woman? mine hour is not yet come,</hi> Joh. 2.4; the day you ſet down in your Kalendar, is not the ſame that God ſets down in his; we are all exceeding prone to poſt-date the divine threat<g ref="char:EOLhyphen"/>nings, and to antidate the divine promiſes: we all <hi>put the evil day far from us,</hi> Amos 6. 3. <hi>Ezek.</hi> 12. 27. When God comes
+<pb n="78" facs="tcp:43657:43"/>
+in his threatnings, we think he hath leaden feet, and is ſlow in pace, 2 <hi>Pet.</hi> 3.4, 9, but when we expect him to come in his promiſes, then we look upon him as a <hi>Roe and as a young hind in the mountains of Bether.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="5" type="part">
+            <head>5ly, <hi>Of watching your heart in natural, civil, and re<g ref="char:EOLhyphen"/>ligious actions.</hi>
+            </head>
+            <div n="1" type="section">
+               <head>Firſt in General.</head>
+               <p n="1">1. Concerning your Na<g ref="char:EOLhyphen"/>tural Actions, as labouring, reſting, feeding and cloth<g ref="char:EOLhyphen"/>ing, <hi>&amp;c.</hi> you had need keep your heart with all diligence in reſpect of theſe, <hi>Prov.</hi> 4. 23, leſt you ſin in them, for the adverſary hath ſome ad<g ref="char:EOLhyphen"/>vantages
+<pb n="79" facs="tcp:43657:43"/>
+over gracious ſpi<g ref="char:EOLhyphen"/>rits in them all: as firſt, that being ſatisfied about the lawfulneſs of theſe acti<g ref="char:EOLhyphen"/>ons, Satan will make you overlook the expediency of them. <hi>2ly,</hi> He may (at ſome time or other) cheat you with divine permiſſion for divine approbation: And <hi>3ly,</hi> he may likewiſe deceive you in putting no juſt difference 'twixt the uſe and abuſe of your Chriſtian liberty.</p>
+               <p n="2">2. Touching the firſt of theſe, let Satan tempt you to any groſs ſin, your heart will riſe with indignation againſt ſuch a foul temptati<g ref="char:EOLhyphen"/>on, and 'twill be a torment
+<pb n="80" facs="tcp:43657:44"/>
+to you to be tempted to it, yea as much torment to your ſoul, as ſawing aſun<g ref="char:EOLhyphen"/>der, and being ſlain with the ſword is torment to the body, <hi>Hebr.</hi> 11. 37, (to be tempted, is there placed betwixt thoſe two kinds of death, as if it were equally dolorous with either or both of them) ſo that foul ſins do not ſo much endanger your ſoul, as it is in thoſe lawful acti<g ref="char:EOLhyphen"/>ons, wherein Satan may more ſlily and inſenſibly beguile you out of a law<g ref="char:EOLhyphen"/>fulneſs, into an inexpedi<g ref="char:EOLhyphen"/>ency.</p>
+               <p n="3">3. Touching the ſecond of them, you muſt learn
+<pb n="81" facs="tcp:43657:44"/>
+this diſtinction from Gods Word, that though God permitted polygamy and divorces under the <hi>Jewiſh</hi> Poedagogy, yet it was only for the hardneſs of their hearts, <hi>Mat.</hi> 19. 8, <hi>But it was not ſo from the begin<g ref="char:EOLhyphen"/>ning,</hi> ſaith Chriſt, that di<g ref="char:EOLhyphen"/>vine diſpenſation (for bet<g ref="char:EOLhyphen"/>ter an inconvenience than a miſchief) makes but little for the lawfulneſs of it, nei<g ref="char:EOLhyphen"/>ther can it amount to a divine approbation.</p>
+               <p n="4">4. Touching the third of them; thoſe actions that be of themſelves and in their own nature lawful, yet through your corruption they are capable of exceſs
+<pb n="82" facs="tcp:43657:45"/>
+and inordinateneſs: the ſly and ſubtil inſinuations of Satan (under a pretence of your own Chriſtian liberty in going as far as you may) will carry you ſometimes a little further than you ſhould. Exceſſive, immo<g ref="char:EOLhyphen"/>derate and inordinate de<g ref="char:EOLhyphen"/>light is ſinful, although it be in objects that are not ſinful in themſelves. This in the general concerning all thoſe actions.</p>
+               <p>
+                  <hi>2ly,</hi> In particular; 1. Of Labour.</p>
+               <p n="1">1. Touching Natural Actions in particular, as firſt of labour, whether it be done in the ſweat of the brow, or of the brain,
+<pb n="83" facs="tcp:43657:45"/>
+(indeed a Miniſters labour conſiſts of both) you muſt (at leaſt) own one of thoſe; God made the Leviathan to ſport in the Sea, but ne<g ref="char:EOLhyphen"/>very any man to ſport on the earth: every man muſt go forth to ſome work or other till the evening, <hi>Pſal.</hi> 104. 23, 26; there muſt be either manual or mental labour.</p>
+               <p n="2">2. Take thoſe few di<g ref="char:EOLhyphen"/>rections to manage your heart in your honeſt em<g ref="char:EOLhyphen"/>ployment and labour.</p>
+               <p>
+                  <hi>Direct.</hi> 1. Firſt beg of God for ability of body in your labour: 'twas part of the Serpents curſe, <hi>Gen.</hi> 3. 14, <hi>[<g ref="char:V">Ʋ</g>pon thy belly ſhalt</hi>
+                  <pb n="84" facs="tcp:43657:46"/>
+                  <hi>thou go;]</hi> ſome think that God cut him ſhorter by the feet, becauſe he is ran<g ref="char:EOLhyphen"/>ked among the beaſts of the field, <hi>v.</hi> 1, and not a<g ref="char:EOLhyphen"/>mong creeping things: Have you the uſe of your limbs for your labour, Oh bleſs God for it, eſpecially if you be ſtrong to labour: if it be a priviledg in oxen, <hi>Pſal.</hi> 144. 24, much more in men.</p>
+               <p>
+                  <hi>Dir.</hi> 2. Pray that your mind may be ſuitable to your labour as well as your body; when there is unſuitableneſs 'twixt the mind of man and his em<g ref="char:EOLhyphen"/>ployment, then the work never comes kindly off,
+<pb n="85" facs="tcp:43657:46"/>
+nor goes it comfortably end-ways; either your cha<g ref="char:EOLhyphen"/>riot-wheels are taken off, &amp; then you drive heavily; or they want Unction, and then they make a creaking repining noiſe, much un<g ref="char:EOLhyphen"/>like the Chariots of <hi>Ami<g ref="char:EOLhyphen"/>nadab,</hi> or of a willing peo<g ref="char:EOLhyphen"/>ple, as the word ſignifies. 'Tis the Lord that qualifi<g ref="char:EOLhyphen"/>ed <hi>Bezaleel</hi> (that was but a poor Brick-maker in <hi>Egypt)</hi> for working all cu<g ref="char:EOLhyphen"/>rious work, <hi>Exod.</hi> 31. 3. And the Husband-mans God doth teach him, and inſtruct him in all his points of Husbandry, <hi>Iſa.</hi> 28. 26.</p>
+               <p>
+                  <hi>Direct.</hi> 3. See that you
+<pb n="86" facs="tcp:43657:47"/>
+purſue your worldly em<g ref="char:EOLhyphen"/>ployment with an heavenly frame of heart, ſetting God always before you, <hi>Pſal.</hi> 16. 8, and being in the fear of God all the day long, <hi>Prov.</hi> 23. 17; evermore ſending forth ſpiritual Ejaculations, as <hi>Nehemiah</hi> and <hi>David</hi> did; this is, <hi>to pray always,</hi> Eph. 6. 18; and <hi>to pray conti<g ref="char:EOLhyphen"/>nually,</hi> 1 Theſ. 5. 17; to wit, keeping your heart in a continual praying frame; your leaky veſſel (as aforeſaid) requires you to ply continually this pump of prayer.</p>
+               <p>
+                  <hi>Direct.</hi> 4. Depend upon God for a bleſſing upon
+<pb n="87" facs="tcp:43657:47"/>
+your daily labours. <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> ſervant pray'd for ſuc<g ref="char:EOLhyphen"/>ceſs in his Enterprize, <hi>Gen.</hi> 24. 12. And <hi>Moſes</hi> prays, <hi>Lord proſper the work of our hands,</hi> Pſal. 90. <hi>ult.</hi> 'Tis true, God may give ſucceſs without it, but ne<g ref="char:EOLhyphen"/>ver ſo ſweet, as with it; <hi>Except the Lord build the houſe,</hi> &amp;c. <hi>Pſal.</hi> 127.1. 'Tis not your diligence alone, but Gods bleſſing that en<g ref="char:EOLhyphen"/>riches, <hi>Prov.</hi> 10.4, 22. You may not aſcribe to your own power, <hi>Deut.</hi> 8. 17; nor ſacrifice to your own Net, <hi>Hab.</hi> 1. 16, as that proud Prince did, <hi>Ezek.</hi> 29. 2. Alas, all your poli<g ref="char:EOLhyphen"/>cy and power without
+<pb n="86" facs="tcp:43657:48"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="87" facs="tcp:43657:48"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="88" facs="tcp:43657:49"/>
+prayer, is but <hi>Arena ſine calce,</hi> ſand without lime; mans diligence muſt be ſubordinate to Gods bleſ<g ref="char:EOLhyphen"/>ſing, then your labour ſhall not be in vain in the Lord. God will bleſs your basket and ſtore, <hi>Deut.</hi> 28 5. though you gather little, you ſhall have no lack, the bleſſing of God will make it up an homer, that is, ſuf<g ref="char:EOLhyphen"/>ficient for you, <hi>Exod.</hi> 16. 18, and your little ſhall be better than the riches of many wicked, <hi>Pſal.</hi> 37. 16.</p>
+            </div>
+            <div n="2" type="section">
+               <pb n="89" facs="tcp:43657:49"/>
+               <head>The ſecond natural action is Reſt or Recreation.</head>
+               <p n="1">1. You may look upon Reſt and Recreation as lawful upon a twofold ac<g ref="char:EOLhyphen"/>count. 1. Reſt from la<g ref="char:EOLhyphen"/>bour, and refreſhing the body and mind, are neceſſa<g ref="char:EOLhyphen"/>ry, becauſe mans nature is like the bow, which being always bent, is eaſily bro<g ref="char:EOLhyphen"/>ken: therefore did the Lord appoint the Night to ſucceed the Day, and the Sabbath to ſucceed the Week, as fit ſeaſons for man to reſt from his la<g ref="char:EOLhyphen"/>bours in; now that which is neceſſary is alſo lawful,
+<pb n="90" facs="tcp:43657:50"/>
+(for God never neceſſitates a man to ſin againſt him), and if Reſt be lawful, then is ſome Recreation (which is call'd ſo, as it is a ſecond creation) in due time and place; there muſt be <hi>Oti<g ref="char:EOLhyphen"/>um</hi> as well as <hi>Negotium.</hi> The ſecond account is, your Chriſtian liberty (which Chriſt hath pur<g ref="char:EOLhyphen"/>chas'd for you), extends it ſelf not only to uſe the Creatures of God for ne<g ref="char:EOLhyphen"/>ceſſity, but alſo for meet and convenient delight; you may delight your ſelf in Gods great goodneſs, <hi>Neh.</hi> 9. 25. You may be righteous over-much in denying your ſelf ſuch a
+<pb n="91" facs="tcp:43657:50"/>
+free uſe of the Creature, (yea and condemning it too) which you are allow<g ref="char:EOLhyphen"/>ed to have by the purchaſe and promiſe of Chriſt. Thus <hi>Iſaac</hi> (who was the moſt loving Husband in holy Writ, for 'tis ſaid of him, and of none elſe, that he loved his Wife, <hi>Gen.</hi> 24.67.) <hi>ſported with Rebeccah his wife,</hi> Gen. 26. 8. And the <hi>Jew</hi> was commanded to cheer up the heart of his Wife the firſt year, <hi>Deut.</hi> 24. 5. And <hi>Solomon</hi> bids the Husband <hi>be always ra<g ref="char:EOLhyphen"/>viſhed with her beauty,</hi> Prov. 5. 18, 19. Thus <hi>Ezekiels</hi> Wife was call'd <hi>the deſire of his eyes,</hi> Ezek. 24. 16. Aſ<g ref="char:EOLhyphen"/>ſuredly
+<pb n="92" facs="tcp:43657:51"/>
+men ought to take ſingular Complacency in their Wives company, and yet without all uncomely uxoriouſneſs: None que<g ref="char:EOLhyphen"/>ſtions Parents dandling their Children upon their knees, as old <hi>Joſeph</hi> did his Grand-children, <hi>Gen.</hi> 50. 23. <hi>Iſa.</hi> 66.12.</p>
+               <p n="2">2. But then you muſt take theſe following Di<g ref="char:EOLhyphen"/>rections for managing your heart aright in your Reſt or Recreations.</p>
+               <p n="1">1 <hi>Direct.</hi> You muſt take heed of waſting too much precious time therein: In<g ref="char:EOLhyphen"/>deed we do not ſo much want time, as waſte time; a vain expence of that time,
+<pb n="93" facs="tcp:43657:51"/>
+(which either your gene<g ref="char:EOLhyphen"/>ral calling requires in holy duties, or your particular calling calls upon you for in neceſſary employments) is not only unlawful, but abominable: You are com<g ref="char:EOLhyphen"/>manded to redeem time, <hi>Epheſ.</hi> 5. 16, but never to paſs-time: the loſs of time is ſuch a precious thing, that God commands ſatisfaction for it, <hi>Exod.</hi> 21. 19. It will be but a poor reckoning at your Lords returning in your accompt for expence of your talent of time; <hi>Item,</hi> ſpent ſo many days or hours in Recreation: Oh what would the dam<g ref="char:EOLhyphen"/>ned in Hell give for but
+<pb n="94" facs="tcp:43657:52"/>
+one of thoſe hours which we have wilfully waſted: Time is like the Urchion or Hedghog that muſt not be handled by the head, but by the heels, in its going from you; take time while time ſerves.</p>
+               <p n="2">2 <hi>Dir.</hi> The ſecond Di<g ref="char:EOLhyphen"/>rection is, be ſure you be moderate in your Recrea<g ref="char:EOLhyphen"/>tion; 'tis compared to honey, it muſt be taken upon the tip of the finger only, and not whole hand<g ref="char:EOLhyphen"/>fuls of it for fear of ſur<g ref="char:EOLhyphen"/>feiting: <hi>Omne nimium ver<g ref="char:EOLhyphen"/>titur in vitium;</hi> alas mans weak heart is ſoon over-charged, <hi>Luk.</hi> 21. 34, and ſoon grows frothy, fooliſh,
+<pb n="95" facs="tcp:43657:52"/>
+if not ſenſual and ſinful in it; you muſt know, that the holy end of Recreation is to fit you the more for the duties of your general and particular calling (in caſe of wearineſs of body or tiredneſs of mind); but if it indiſpoſe you to ei<g ref="char:EOLhyphen"/>ther or both, your heart doth deceive you; ſuch as ſpend their lives in ſports, and their livelihood too, will prove but bad accom<g ref="char:EOLunhyphen"/>ptants when they bring in the broken accomptants of their ſtewardſhip to their Lord and Maſter at the laſt day.</p>
+               <p n="3">3 <hi>Direct.</hi> The third Di<g ref="char:EOLhyphen"/>rection is, chuſe your Re<g ref="char:EOLhyphen"/>creations
+<pb n="96" facs="tcp:43657:53"/>
+that are of beſt report, and of leaſt offence, <hi>Phil.</hi> 4.8. 1 <hi>Cor.</hi> 8. 13. You may not make any of Gods Judgments or Puniſhments for ſin (either in man or beaſt) the matter or object of your ſport and recreati<g ref="char:EOLhyphen"/>on, as the folly of the natu<g ref="char:EOLhyphen"/>ral fool, the antipathy of beaſts (whereby they tear and deſtroy one another) which are fruits of the fall, and of mans rebellion a<g ref="char:EOLhyphen"/>gainſt God; ſo ſhould be rather matter of mourning, than of rejoycing. Neither may you chuſe (for your ſport) whatſoever moves troubleſome paſſions, as fear, anger, <hi>&amp;c.</hi> nor thoſe
+<pb n="97" facs="tcp:43657:53"/>
+wherein is a lot (which is a religious act and an ordi<g ref="char:EOLhyphen"/>nance of God) which ought not to be ſported with.</p>
+               <p n="4">4 <hi>Dir.</hi> The fourth Di<g ref="char:EOLhyphen"/>rection is; having pitch'd upon ſuch Recreations as are harmleſs and ſinleſs, yet may you not ſtain them with bad compani<g ref="char:EOLhyphen"/>ons, ſuch as you cannot conſort with, but you muſt either countenance ſin, or contract ſin; ſuch as you muſt contract either guilt or grief, as before. All tares muſt be bundled to<g ref="char:EOLhyphen"/>gether; ſuch as ſpend their time together in ſports on earth, may howl in hell to<g ref="char:EOLhyphen"/>gether to all eternity.</p>
+               <p n="5">
+                  <pb n="98" facs="tcp:43657:54"/>
+5 <hi>Dir.</hi> The fifth Dire<g ref="char:EOLhyphen"/>ction: Notwithſtanding all, yet muſt you account it ſa<g ref="char:EOLhyphen"/>fer not to truſt your heart with any Recreation at all, any further than is plainly neceſſary: get (there<g ref="char:EOLhyphen"/>fore) up your heart to live without them, and take up your whole de<g ref="char:EOLhyphen"/>light in God, <hi>Pſal.</hi> 37. 4. Then if at any time you be conſtrained to uſe them, you will be as if you uſed them not, 1 <hi>Cor.</hi> 7. 29<g ref="char:punc">▪</g> and <hi>as not having, yet ſtill ha<g ref="char:EOLhyphen"/>ving,</hi> 2 Cor. 6. 10, that is, your heart will not be en<g ref="char:EOLhyphen"/>gaged to any thing but to God, and your affections will keep uppermoſt for
+<pb n="99" facs="tcp:43657:54"/>
+Jeſus Chriſt: the truth is, were but our affections more mortified, and ſpi<g ref="char:EOLhyphen"/>ritual duties more natural to us, we might better live without thoſe, than the Philoſophers (as they ſaid) could dine and ſup without muſick; therefore as <hi>Joſhuah</hi> houghed the <hi>Canaanites</hi> Chariot-horſes, <hi>Joſh.</hi> 11. 6, 9, and <hi>David Zobah's,</hi> 2 <hi>Sam.</hi> 8. 4, ſo intreat thy <hi>Joſhuah,</hi> thy Jeſus the Son of <hi>David,</hi> to hough thy carnal affections, that as <hi>Phaetons</hi> Chariot-horſes, they ſet not all on fire; then delight in God, and thou'lt need leſs the de<g ref="char:EOLhyphen"/>lights of the world.</p>
+            </div>
+            <div n="3" type="section">
+               <pb n="100" facs="tcp:43657:55"/>
+               <head>The third Natural action is feeding your belly.</head>
+               <p>1. The <hi>3d</hi> Natural action is feeding your belly, which is daily work, for our tot<g ref="char:EOLhyphen"/>tering tabernacles of clay ſtand in need to be ſuppor<g ref="char:EOLhyphen"/>ted with the ſtaff of daily bread, and therefore is our life call'd <hi>the life of our hands,</hi> Iſa. 57. 10. As our hands are daily (yea hour<g ref="char:EOLhyphen"/>ly) adminiſtring ſomething either to back or belly, to ſupport our life. Thoſe common actions (of fee<g ref="char:EOLhyphen"/>ding and clothing us) are ſteps in our Chriſtian con<g ref="char:EOLhyphen"/>verſation,
+<pb n="101" facs="tcp:43657:55"/>
+and therefore ought not to be deſpiſed, but are rather to be regu<g ref="char:EOLhyphen"/>lated and reformed to their ſupream ſcope, to wit, Gods glory.</p>
+               <p n="1">1 <hi>Dir.</hi> Hence your firſt Direction is, Be ſure you eat and drink with an aim at the glory of God, 1 <hi>Cor.</hi> 10. 31. You muſt eat for God, and drink for God; <hi>Quicquid agas, propter De<g ref="char:EOLhyphen"/>um agas,</hi> do all in refer<g ref="char:EOLhyphen"/>ence to God, receive not any of Gods bleſſings with a carnal frame of heart; but look upon all your Temporal mercies (ſet be<g ref="char:EOLhyphen"/>fore you on the Table) with a ſpiritual eye, and
+<pb n="102" facs="tcp:43657:56"/>
+improve them with a ſpi<g ref="char:EOLhyphen"/>ritual heart. Good old <hi>Iſidore</hi> wept at his Table, crying out, <hi>I am aſhamed that I ſhould feed on cor<g ref="char:EOLhyphen"/>ruptible beaſts, whereas I was created to be a compa<g ref="char:EOLhyphen"/>nion of Angels, and to feed upon heavenly food with them.</hi> A worthy Mi<g ref="char:EOLhyphen"/>niſter of <hi>Scotland</hi> was ſaid, to eat, drink and ſleep eter<g ref="char:EOLhyphen"/>nal life; for in thoſe earth<g ref="char:EOLhyphen"/>ly and natural actions he ſtill kept an heavenly and ſpiritual heart. The main weight of his Meditations was laid upon God (the giver of them), and his glory. Oh could you but eat to his glory, and drink
+<pb n="103" facs="tcp:43657:56"/>
+to his glory, you would not ſo eaſily ſin in them.</p>
+               <p n="2">2. <hi>Dir.</hi> The ſecond Di<g ref="char:EOLhyphen"/>rection: Feed your ſelf with a God-bleſſing heart, which is the true (ſpiritual) heave-offering, <hi>Numb.</hi> 15. 19. When your heart is heaved (or lifted) up to God, and in every thing gives thanks, ſaying, Oh what charges do you put God to, in conſuming his corn and his cattel, <hi>Hoſ.</hi> 2. 8, 9. (As <hi>Jacob</hi> calls God <hi>the God that fed him all his life long,</hi> Gen. 48. 15.) Yet what an unprofitable ſer<g ref="char:EOLhyphen"/>vant are you, and what an undutiful ſon? even ſuch as God complains of, <hi>Iſa.</hi> 1.
+<pb n="104" facs="tcp:43657:57"/>
+2, <hi>I have nouriſhed and brought up children, and they have rebelled againſt me.</hi> You muſt admire and adore God that is ſo good, and does ſo good to you, who are ſo evil, and do ſo evil to him; cry, I am leſs than the leaſt of all thy mercies, <hi>Gen.</hi> 32. 10. Have high thoughts of God, and low of your ſelf; the ſame <hi>Jacob</hi> that had pleaded his merit with <hi>Laban, Gen.</hi> 31. from 38 to 41, yet here ſets a low rate on himſelf to God.</p>
+               <p n="3">3 <hi>Dir.</hi> The third Dire<g ref="char:EOLhyphen"/>ction: Whatever ſweet<g ref="char:EOLhyphen"/>neſs you find in any crea<g ref="char:EOLhyphen"/>ture (you feed upon) let
+<pb n="105" facs="tcp:43657:57"/>
+it lead you to the ſpring<g ref="char:EOLhyphen"/>head of that ſweetneſs; do you ſay, Is there ſo much ſavour in thoſe de<g ref="char:EOLhyphen"/>rivative gifts? there muſt needs be much more in the original giver: Labour to ſwim up thoſe ſtreams till you reach the ſpring; cry<g ref="char:EOLhyphen"/>ing, If mercy be ſo good, Oh what is the God of mercy? Oh that I may come at him! as well as at his mercies, and learn to love God for himſelf, as well as for his benefits; de<g ref="char:EOLhyphen"/>lighting your ſelf in Gods goodneſs as well as in that of the creatures, <hi>Neh.</hi> 9.25.</p>
+               <p n="4">4 <hi>Dir.</hi> The fourth Di<g ref="char:EOLhyphen"/>rection: You may not feed
+<pb n="106" facs="tcp:43657:58"/>
+your ſelf without fear, as thoſe in <hi>Jud.</hi> 12</p>
+               <p>1. But firſt, ſanctifie it by prayer, 1 <hi>Tim.</hi> 4. 4, 5. Look on that bread which is not got in an honeſt Vo<g ref="char:EOLhyphen"/>cation, and ſanctified by an holy Invocation, to be no wholſome bread, but ſuch as may prove diſeaſes to your body, and ſin to your ſoul: If wicked men ſay, We will neither eat nor drink till we have killed <hi>Paul,</hi> Act. 23. 12, then godly men muſt ſay, We will neither eat nor drink till we have call'd on God, as 1 <hi>Sam.</hi> 9. 31. <hi>Mark</hi> 6.41. &amp; <hi>Act.</hi> 27. 35. That God may command
+<pb n="107" facs="tcp:43657:58"/>
+his bleſſing <hi>(Deut.</hi> 28. 8.) upon your Table; that you have your mercies not only with his leave, but alſo with his love; not only from his hand, but alſo from his heart; not only out of the Court of Chriſts general Providence, but alſo out of the Court of ſpecial Favour. <hi>2ly,</hi> Feed ſoberly: ſobriety will re<g ref="char:EOLhyphen"/>claim you from being ei<g ref="char:EOLhyphen"/>ther unſeaſonable in time, or unreaſonable either in matter or meaſure, either in quantity or quality: 1. Not unſeaſonable as to time, <hi>Eccleſ.</hi> 10. 16; not as luxurious Princes, that ſerve their bellies in the
+<pb n="108" facs="tcp:43657:59"/>
+morning (that golden hour for prayer) before they ſerve their God; nor as thoſe in <hi>Amos</hi> 6. 4, 6, that feaſted riotouſly, without laying to heart the affli<g ref="char:EOLhyphen"/>ctions of <hi>Joſeph;</hi> while <hi>Joſeph</hi> was in the pit, alas, his brethren pitied him not, <hi>Gen.</hi> 37. 23. <hi>2ly,</hi> Neither muſt it be unreaſonable either for matter or mea<g ref="char:EOLhyphen"/>ſure; 1. Not for matter or quality, as the rich glutton, <hi>that fared deliciouſly every day,</hi> Luk. 16. 19; as pur<g ref="char:EOLhyphen"/>ple and ſilk was his daily clothing, ſo coſtly delica<g ref="char:EOLhyphen"/>cies was his daily food; but (alas) it was all his heaven he had, as <hi>Abraham</hi> told
+<pb n="109" facs="tcp:43657:59"/>
+him when he was in Hell. You muſt ſet a knife to your throat, that is, to your concupiſcible appe<g ref="char:EOLhyphen"/>tite (which ſtands more in need of a bridle than a ſpur) as to thoſe things, <hi>Prov.</hi> 23. 2, 3, 20: and ſay with <hi>David, Let me not eat of their dainties,</hi> Pſal. 141. 4. And (with <hi>Daniel)</hi> re<g ref="char:EOLhyphen"/>frain from them for fear of a ſnare, <hi>Dan.</hi> 1. 8. Nor <hi>2ly,</hi> muſt it be unreaſona<g ref="char:EOLhyphen"/>ble for meaſure or quanti<g ref="char:EOLhyphen"/>ty: fulneſs of bread was <hi>Sodoms</hi> ſin, <hi>Ezek.</hi> 16. 49, her food was fewel for her laſciviouſneſs; you may not make proviſion for the fleſh, <hi>to fulfil the luſts there<g ref="char:EOLhyphen"/>of,</hi>
+                  <pb n="110" facs="tcp:43657:60"/>
+                  <hi>Rom.</hi> 13. <hi>ult.</hi> then is your fulneſs an exceſs when it overcharges you, <hi>Luk.</hi> 21. 34; and diſenables you for the duties of either your general or particu<g ref="char:EOLhyphen"/>lar calling. <hi>3ly,</hi> When you have eaten and are full, <hi>then bleſs the Lord your God,</hi> Deut. 8. 10: when you are as <hi>Napthali,</hi> ſa<g ref="char:EOLhyphen"/>tisfied with favour, and filled with the bleſſings of the Lord, <hi>Deut.</hi> 33. 23, then give God ſolemn thanks for all, and be not like prophane <hi>Eſau,</hi> that ſat down to eat and drink, and roſe up and went his way; never reflecting upon himſelf, nor bleſſing God
+<pb n="111" facs="tcp:43657:60"/>
+for his mercies; nor like the hog under the apple-tree, that gluts himſelf with the fruit that falls, but never looks up to the tree from whence they fall. This is not to eat every morſel as dipt in Chriſts blood, and is ſtrain'd through the Covenant to take off the curſe inflicted on all creatures for the firſt ſinner.</p>
+            </div>
+            <div n="4" type="section">
+               <head>The fourth Natural action is clothing your body.</head>
+               <p>The fourth Natural acti<g ref="char:EOLhyphen"/>on is clothing your body; wherein the pride of your heart may deceive you,
+<pb n="112" facs="tcp:43657:61"/>
+                  <hi>Obad.</hi> 3. Therefore take theſe Directions.</p>
+               <p n="1">1. The firſt Direction: Ponder the Original of your clothing; it was not in the ſtate of innocency, for then was there neither parching heat, nor pinching cold; and nakedneſs was then no ſhame but a glo<g ref="char:EOLhyphen"/>rious comelineſs; ſhame is the daughter of ſin, which brought in the firſt clo<g ref="char:EOLhyphen"/>thing, as well as diſtempe<g ref="char:EOLhyphen"/>rature of air (in heat and cold) the fruits of the fall: Remember that nakedneſs of the ſoul brought in the firſt clothing for the body; ſo that 'tis but the badg of mans ſhame, and the token
+<pb n="113" facs="tcp:43657:61"/>
+of his rebellion againſt his Maker; it carries along with it a ſecret confeſſion of his own guilt. You may not then be proud of your apparel, for that is to be proud of your own ſhame; no man is proud of a plai<g ref="char:EOLhyphen"/>ſter on his ſore, for that demonſtrates there is a wound; no thief is proud of his fetters, for they de<g ref="char:EOLhyphen"/>clare he hath offended the law, and that heinouſly; neither muſt you be of your garments, which are the cover of your ſhame, and the ſign of your ſin.</p>
+               <p n="2">2. The ſecond Directi<g ref="char:EOLhyphen"/>on: Take notice that all your clothing are but bor<g ref="char:EOLhyphen"/>rowed
+<pb n="114" facs="tcp:43657:62"/>
+things; how do you borrow the skin, hair and wool of bruit beaſts (to co<g ref="char:EOLhyphen"/>ver your nakedneſs withal) and what are your ſilks, but the ſpittle and excre<g ref="char:EOLhyphen"/>ments of a poor worm? all (as it were) the very caſt-apparel of unreaſon<g ref="char:EOLhyphen"/>able creatures: Man lives on borrowing, and that from things that are worſe than himſelf in reſpect of their nature. Therefore you may not be proud of theſe things that you bor<g ref="char:EOLhyphen"/>row; no creature ſo beg<g ref="char:EOLhyphen"/>garly, ſo needy as man is, in point of clothing; for every creature brings its clothing into the world
+<pb n="115" facs="tcp:43657:62"/>
+with it, but you were born a naked creature, and muſt borrow all to cover you, <hi>Ezek.</hi> 16. 4. 6, and will you be proud (as the Crow in the fable) of your bor<g ref="char:EOLhyphen"/>row'd feathers? you may well know, that your God doth not cover you for any ſuch end.</p>
+               <p n="3">3. The third Direction, inſtead of proud reflections on your ſelf, uſe holy Soli<g ref="char:EOLhyphen"/>loquies with your ſelf; ſaying; 1. I have a naked ſoul to cover (as well as a naked body) and therefore muſt look out for the wed<g ref="char:EOLhyphen"/>ding garment, to wit, the righteouſneſs of Chriſt (both imparted and impu<g ref="char:EOLhyphen"/>ted);
+<pb n="116" facs="tcp:43657:63"/>
+I muſt put on the Lord Jeſus Chriſt, <hi>Rom.</hi> 13. 14, that I may not be found naked, <hi>Rev.</hi> 16. 15; but that I may be comely to God as well as to man. <hi>2ly,</hi> The putting off your clothing at night, ſhould mind you of putting off the old man, <hi>&amp;c. Eph.</hi> 4. 22; and of putting off your tabernacle of corruption, 2 <hi>Pet.</hi> 1. 14. 2 <hi>Cor.</hi> 5.2, 3, 4. and then muſt you go down to the bed of the grave, there to ſleep till the morning of the Reſurre<g ref="char:EOLhyphen"/>ction. <hi>3ly,</hi> When you put on your clothing again in the morning, it ſhould mind you, that you muſt
+<pb n="117" facs="tcp:43657:63"/>
+be rais'd out of the bed of the grave, and then <hi>cor<g ref="char:EOLhyphen"/>ruption ſhall put on incorrup<g ref="char:EOLhyphen"/>tion, and mortality ſhall be ſwallow'd up of life,</hi> 1 <hi>Cor.</hi> 15. 53. 2 <hi>Cor.</hi> 5. 4. If you have put on the new man, the image of God in Chriſt.</p>
+            </div>
+            <div type="section">
+               <head>The ſecond ſort of Actions are Civil, as your Com<g ref="char:EOLhyphen"/>merce and trading with others.</head>
+               <p>The ſecond ſort of Acti<g ref="char:EOLhyphen"/>ons are Civil, as your com<g ref="char:EOLhyphen"/>merce and trading with o<g ref="char:EOLhyphen"/>thers.</p>
+               <p n="1">1. Direction the firſt: That you may be kept
+<pb n="118" facs="tcp:43657:64"/>
+from ſinning herein, get your heart fraught with the fear of God as <hi>Joſeph, Gen.</hi> 42. 18, and <hi>Neh.</hi> 5.9, 15; thoſe good men had a curb upon them to re<g ref="char:EOLhyphen"/>ſtrain them from wrong<g ref="char:EOLhyphen"/>ing others; and where this curb is not, men will not ſtick at any ſin, as <hi>Gen.</hi> 20. 11.</p>
+               <p n="2">2 <hi>Direct.</hi> Lay your ſouls under that command of God in the Old Teſtament, <hi>Levit.</hi> 25. 14, <hi>[In buying and ſelling ye ſhall not op<g ref="char:EOLhyphen"/>preſs one another.]</hi> And under that in the New, 1 <hi>Theſ.</hi> 4. 6. <hi>[Defraud not one another,]</hi> and fall down before the authority of
+<pb n="119" facs="tcp:43657:64"/>
+thoſe commands, as one that muſt give an account of all.</p>
+               <p n="3">3 <hi>Dir.</hi> As you are to obſerve [Gods precepts] ſo muſt you <hi>[godly preſidents]</hi> eſpecially that of father <hi>Abraham, Gen.</hi> 23. 15, <hi>[The land is worth</hi> 400 <hi>ſhekels]</hi> if ſo, then <hi>Abraham</hi> can<g ref="char:EOLhyphen"/>not be cozened; here is fair dealing from heathens; the ſeller doth not ask too much, nor doth the buyer bid too little; only one price is pitch'd upon, and paid down, and all is done, for ſuch bargains be made among Chriſtians.</p>
+               <p n="4">4 <hi>Direct.</hi> Put your ſelf in your Chapmans ſtead,
+<pb n="120" facs="tcp:43657:65"/>
+and do to him as you would have him do to you in the like caſe, <hi>Mat.</hi> 7. 12. <hi>Job</hi> 16.4: the buyer ſhould put himſelf in the ſellers ſtead, and the ſeller in the buyers.</p>
+               <p n="5">5 <hi>Dir.</hi> Get your heart weaned from all immode<g ref="char:EOLhyphen"/>rate love of the world; the love of money is the root of all evil, 1 <hi>Tim.</hi> 6. 10; hence comes all co<g ref="char:EOLhyphen"/>zenage, ſuppoſing that gain is godlineſs, which is no other than a worſhipping of Mammon. View but (in your Contemplations) once a day the joys of Heaven, and 'twill wean you by de<g ref="char:EOLhyphen"/>grees from thoſe toys of the earth.</p>
+               <p n="6">
+                  <pb n="121" facs="tcp:43657:65"/>
+6 <hi>Direct.</hi> Eſteem highly of honeſty and holineſs in all actions; and that far a<g ref="char:EOLhyphen"/>bove wealth or honour; 'tis indeed wages to itſelf, <hi>Pſ.</hi> 19. 11, <hi>in keeping them there is great reward.</hi> But you may ſay of defrauding, as <hi>Gen.</hi> 27. 12, It will bring a curſe, and not a bleſſing.</p>
+            </div>
+            <div type="section">
+               <head>The third ſort of Actions are Religious.</head>
+               <p>The third ſort of Acti<g ref="char:EOLhyphen"/>ons are Religious, which are either private or pub<g ref="char:EOLhyphen"/>lick; the firſt of which will diſcover your ſtate beſt to you; for every man is, what he is in private;
+<pb n="122" facs="tcp:43657:66"/>
+and a truly pious ſoul will be found in Religious acti<g ref="char:EOLhyphen"/>ons as well in the ſhade, as in the Sun; he will make conſcience of duty, as well when no body ſees him, (for he knows he's always under the all-ſeeing eye) as when any or many ſee him; you muſt go beyond the hypocrite in the pra<g ref="char:EOLhyphen"/>ctice of ſecret duty. As 1, In hearty bewailings of your own imperfections; 2, In hearty bleeding ac<g ref="char:EOLhyphen"/>knowledgments of your unkindneſſes to Chriſt, and to his gracious Spirit. 3, In pantings and inquietations of foul after Union and Communion with God.
+<pb n="123" facs="tcp:43657:66"/>
+4, In hungrings and long<g ref="char:EOLhyphen"/>ings after ſpiritual refreſh<g ref="char:EOLhyphen"/>ment, and transforming of ſoul in every duty.</p>
+               <p>The unſound heart is a ſtranger to thoſe, and to ſecret addreſſes to God (or at moſt, but ſlight in them if found in that work at all); he is careleſs in ſelf-examination, curſory in meditation, ſaint in heart-watchings, and feeble in mortification; but nothing at all in loving and walking with God, and delighting in him. Do you more than he in all theſe; and be but a good Chriſtian in private duties, and you cannot be a bad one in publick.</p>
+               <p n="1">
+                  <pb n="124" facs="tcp:43657:67"/>
+1. More particularly concerning Religious Acti<g ref="char:EOLhyphen"/>ons: And,</p>
+               <p n="1">1. Of Meditation, that moſt neceſſary and much neglected duty, this muſt be (1) your ſpiritual lad<g ref="char:EOLhyphen"/>der (as <hi>Jacob</hi> had his) whereon you aſcend in di<g ref="char:EOLhyphen"/>vine Contemplations of the excellency of your bleſſed and bleeding Saviour, till your heart be raviſhed therewithal.</p>
+               <p n="2">2. Meditation muſt be (2) your ſpiritual limbeck, whereby the choiceſt and nobleſt ſpirit may be ex<g ref="char:EOLhyphen"/>tracted. Oh how this di<g ref="char:EOLhyphen"/>vine limbeck will cauſe tears to diſtill and drop
+<pb n="125" facs="tcp:43657:67"/>
+down into Gods bottle as their Receiver, <hi>Pſal.</hi> 56. 8.</p>
+               <p n="3">3. The great book of nature (with its three leaves of Heaven, Earth and Sea) as well as the bleſſed Book of Scripture, may hereby afford you a rich ſpirit and quinteſſence. The firſt leaf of that book, to wit, Heaven, may afford you many divine lectures; as firſt the purity of Hea<g ref="char:EOLhyphen"/>ven may teach you the pu<g ref="char:EOLhyphen"/>rity of its Maker, who made it of ſuch pure mat<g ref="char:EOLhyphen"/>ter as you behold; and the purity alſo that ought to be in your heart, that this pure God may dwell in it as in his palace, tem<g ref="char:EOLhyphen"/>ple,
+<pb n="126" facs="tcp:43657:68"/>
+and lower heaven; yea, and the purity of your life likewiſe, as becometh one that expects to live for ever in that pure heaven into which no impure thing can ever enter.</p>
+               <p n="4">4. When you behold, <hi>2ly,</hi> the glory and ſplendor of Heaven, both by night and by day: 1. By night, how it is beſpangled with glittering and glorious Stars, then think with your ſelf that this ſplendid fir<g ref="char:EOLhyphen"/>mament (which I be<g ref="char:EOLhyphen"/>hold) is but the outſide of the palace of God, and the under-ſeiling only thereof; and if that have ſo much lu<g ref="char:EOLhyphen"/>ſtre and beauty, how much
+<pb n="127" facs="tcp:43657:68"/>
+more hath the inſide where the divine tranſcendent Majeſty of the Trinity (with innumerable both of glorious Angels and of glo<g ref="char:EOLhyphen"/>rified Saints) ſhineth forth!</p>
+               <p n="5">5. And <hi>2ly,</hi> by day; when you behold how one Sun makes a moſt glorious Morning when it ariſeth: and when you ariſe out of your bed, then meditate, Oh what ſhall the morning of the Reſurrection be! 'twill be ten thouſand times more glorious, when the Sun of Righteouſneſs ſhall ariſe, and with him Myriads of Saints and An<g ref="char:EOLhyphen"/>gels (which ſhall be all ſe<g ref="char:EOLhyphen"/>ven times brighter than the
+<pb n="128" facs="tcp:43657:69"/>
+Sun of the firmament. If it be a pleaſant thing (as <hi>So<g ref="char:EOLhyphen"/>lomon</hi> telleth you) to be<g ref="char:EOLhyphen"/>hold the Sun, then think how 'tis more pleaſant (yea and profitable too) for you to behold the Sun of Righteouſneſs; <hi>that in his light you may ſee light, Pſal.</hi> 36. 9.</p>
+               <p n="6">6. When you view the changeableneſs of the face of Heaven, and its out<g ref="char:EOLhyphen"/>ward appearance unto you, this may teach you in the third place, that as the Heaven is ſomtimes bright, and ſometimes clouded, not all night, nor all day; the Sun ſometimes over-caſt with a black cloud, and
+<pb n="129" facs="tcp:43657:69"/>
+ſometimes breaking out in its ſplendor and glory; and as the Moon hath her chan<g ref="char:EOLhyphen"/>ges &amp; her borrowed light, ruling the night, as the Sun the day, ſo you may not expect any fixed conſtancy in any condition upon earth while there is ſuch changeableneſs in the face of heaven.</p>
+               <p n="7">7. When you conſider <hi>(4ly)</hi> the firmneſs of the body of heaven, how it hath continued firm and unworn (notwithſtanding its motion, (which wears all other things) is with in<g ref="char:EOLhyphen"/>credible ſwiftneſs) from the Creation of the World, then did the Lord ſpread
+<pb n="130" facs="tcp:43657:70"/>
+out that heaven like a cur<g ref="char:EOLhyphen"/>tain, and it hath continued ſpread for almoſt ſix thou<g ref="char:EOLhyphen"/>ſand years, yet not one hole can be diſcerned in that curtain to this day: Oh how may this teach you, the unchangeableneſs of God who was the Crea<g ref="char:EOLhyphen"/>tor and is the upholder of Heaven, and what a ſafe place heaven is, to lay up your treaſure in, ſo far out of the reach of all ruſt and robbery.</p>
+               <p>The ſecond leaf in the book of Nature is (1.) the Earth, which the Heaven oft hears, and waters with ſhowers of bleſſing; ſome<g ref="char:EOLhyphen"/>times God ſtops up thoſe
+<pb n="131" facs="tcp:43657:70"/>
+of heaven, and ſometimes he opens them. <hi>Speak to the earth and it ſhall teach you,</hi> Job 12.8. How the clouds are Gods watering pot, and his ſpunges which he ſquee<g ref="char:EOLhyphen"/>zes with a gentle hand, that the rain may ſoftly deſcend and drop fatneſs upon the furrows of the earth. Con<g ref="char:EOLhyphen"/>ſider, Oh what dependen<g ref="char:EOLhyphen"/>cy hath man upon God! the rain hath no father but God; the vanities of the Gentiles cannot give rain, <hi>Jer.</hi> 14. 22.</p>
+               <p n="2">2. Meditate how the air blows upon the earth, yet is inviſible; and al<g ref="char:EOLhyphen"/>though it be ſo, yet is it the preſerver of your life,
+<pb n="132" facs="tcp:43657:71"/>
+which is nothing but a va<g ref="char:EOLhyphen"/>pour, and a little warm breath turned up and down the noſtrils: how may this put you in mind of the in<g ref="char:EOLhyphen"/>viſible God, who filleth all things; and in whom you live, move, and have your being?</p>
+               <p n="3">3. When you conſider how the Earth hangeth in the midſt of the air (poi<g ref="char:EOLhyphen"/>zed equally every way) and yet not reeled out of its place this five thouſand years and upward, notwith<g ref="char:EOLhyphen"/>ſtanding the hideous tem<g ref="char:EOLhyphen"/>peſts that hath been upon it, and the dreadful Earth<g ref="char:EOLhyphen"/>quakes that hath been within it; <hi>Pſal.</hi> 104. 5, 6,
+<pb n="133" facs="tcp:43657:71"/>
+                  <hi>God laid the foundations of the earth, that it cannot be removed for ever.</hi> And <hi>he hangeth the earth upon no<g ref="char:EOLhyphen"/>thing,</hi> Job 26. 7. Now if the whole maſſy body of the Earth hang ſo ſteadily and ſtedfaſtly upon the powerful precept of God; O then bethink your ſelf, how firmly you ought to hang upon the precious promiſe of God both for your ſafety in this world, and for your ſalvation in the world to come.</p>
+               <p n="4">4. Behold the fruits of the Earth, and conſider, that a woman when about fifty years of age is paſt child-bearing; yet this great
+<pb n="134" facs="tcp:43657:72"/>
+mother (the Earth) though ſhe be above five thouſand years old, is not paſt fruit-bearing ſtill; and whence comes it but from the word of the great Jehovah? <hi>Seed-time and harveſt ſhall not ceaſe,</hi> Gen. 8. 22. You ſee the Earth is yearly loaden with fruit, Oh then con<g ref="char:EOLhyphen"/>ſider what are the riches of the Throne of God, if there be ſo much upon his footſtool; ſay alſo within your ſelf, doth your ground and your garden anſwer your expectation, and ſhall not you the expectation of your God, he will have his viſiting time, <hi>Cant.</hi> 6. 11. and will come with his
+<pb n="135" facs="tcp:43657:72"/>
+basket upon his arm to ga<g ref="char:EOLhyphen"/>ther the fruit of his Vine-yard; if he find none to fill his basket, he will lay down his basket, and take up his axe and cut you down, that you may not cumber the ground any more.</p>
+               <p n="5">5. Your beholding of the graſs of the field, (while you are walking ro meditate there as <hi>Iſaac</hi> did, <hi>Gen.</hi> 24. 63.) may mind you of your mortality, and of your withering conditi<g ref="char:EOLhyphen"/>on; <hi>All fleſh is graſs,</hi> Iſa. 40. 6, 7. that graſs which the ſythe cuts not down in Summer while 'tis young and juicy, the ſharp froſts of an hard Winter will wi<g ref="char:EOLhyphen"/>ther
+<pb n="136" facs="tcp:43657:73"/>
+away; ſo though you eſcape the ſythe of death in the ſummer of your youth (while your bones are full of marrow, and your veins of blood) yet the winter of old age will wither you.</p>
+               <p n="6">6. When you behold that variety of trees, it may teach you the difference a<g ref="char:EOLhyphen"/>mong men; ſome are wild trees, trees of the wood (that is, out of the Church) whoſe fruit be crabs and acorns, mask for hogs, not meat and medicine for men, as <hi>Ezek.</hi> 47. 12. Others are trees of Righteouſneſs, planted and watered by the Lord, <hi>Iſa.</hi> 61. 3. as the other by the Devil; and
+<pb n="137" facs="tcp:43657:73"/>
+thus ordinary objects (as birds and beaſts, <hi>&amp;c.)</hi> may be hallowed to an heaven<g ref="char:EOLhyphen"/>ly end. The ox knows his owner, the ſwallow her ſeaſon.</p>
+               <p n="1">1. The third leaf in the book of Nature is the Sea, the great and wide Ocean, which yet is but as a babe in the hands of the great God, and as a little Infant in ſwadling bands, <hi>Job</hi> 38. 9. If you or any that are near or dear to you, be con<g ref="char:EOLhyphen"/>cern'd at Sea, Oh how may this conſideration comfort you, that your God can as eaſily rule and repreſs the unruly Ocean, as the mo<g ref="char:EOLhyphen"/>ther doth her tender ſuck<g ref="char:EOLhyphen"/>ling,
+<pb n="138" facs="tcp:43657:74"/>
+when it is ſwadled up by her hands; 'tis the work of the Almighty to ſet bounds to that raging Ele<g ref="char:EOLhyphen"/>ment, <hi>Job</hi> 38. 9, 10.</p>
+               <p n="2">2. Thus alſo it may mind you, that though the Dra<g ref="char:EOLhyphen"/>gon caſt forth flouds to drown the man-child, <hi>Rev.</hi> 12. 15. and though the wa<g ref="char:EOLhyphen"/>ters of affliction do riſe &amp; rage againſt the Church and children of God, yet at the rebuke of your God the waters ſhall be abated, and the dry land ſhall ap<g ref="char:EOLhyphen"/>pear, <hi>Gen.</hi> 1.9. <hi>&amp;</hi> 8. 3. and the Ship (the Church) ſhall come ſafe to ſhore, what<g ref="char:EOLhyphen"/>ever contrary wind ſhe meets with in the world,
+<pb n="139" facs="tcp:43657:74"/>
+                  <hi>Mat.</hi> 8. 26. <hi>&amp;</hi> 14. 24.</p>
+               <p n="3">3. The continual fluctu<g ref="char:EOLhyphen"/>ation of the Sea in its be<g ref="char:EOLhyphen"/>ing toſſed with tempeſts to keep it from ſtinking, like a ſtanding pool, which, if ſo, would deſtroy the Earth: This may teach you the wiſdom of God in order<g ref="char:EOLhyphen"/>ing all things, in ſending tides and winds to toſs the waters, and to make them ſome out their mire and dirt, <hi>Iſa.</hi> 57. 20. and ſo keep them from corrupti<g ref="char:EOLhyphen"/>on; and likewiſe, how needful it is for you to be afflicted, and to be poured from veſſel to veſſel, that you may not ſettle upon the lees as <hi>Moab</hi> did, <hi>Jer.</hi> 48. 11.</p>
+               <p n="4">
+                  <pb n="140" facs="tcp:43657:75"/>
+4. Oh the divine Medi<g ref="char:EOLhyphen"/>tations that holy <hi>David</hi> had on this ſubject of the Sea in <hi>Pſal.</hi> 107.23, 24, <hi>&amp;c.</hi> (although his concernments lay very little in that Ele<g ref="char:EOLhyphen"/>ment, as he had done be<g ref="char:EOLhyphen"/>fore in looking upon the heavens, <hi>Pſal.</hi> 19. 1. <hi>&amp;</hi> 8. 3.) look upon all with <hi>Da<g ref="char:EOLhyphen"/>vids</hi> ſpectacles and ſpirit, and the Sea (as well as hea<g ref="char:EOLhyphen"/>ven and earth) will afford you many divine Inſtructi<g ref="char:EOLhyphen"/>ons.</p>
+               <p>It will teach you, (1) that your heart (like <hi>Reu<g ref="char:EOLhyphen"/>ben)</hi> is as unſtable as wa<g ref="char:EOLhyphen"/>ter for God, and God lives, <hi>Gen.</hi> 49. 4. (2) That the Lord ſitteth upon the
+<pb n="141" facs="tcp:43657:75"/>
+floods, <hi>Pſal.</hi> 29. 10. and rules for ever all the flu<g ref="char:EOLhyphen"/>ctuations of your and the Churches afflictons, God ſits, when they flote and fly away. (3) That Merchants and Mariners (in their tra<g ref="char:EOLhyphen"/>ding and trafficking by Sea) hang both their ſafety and ſucceſs upon a few Ropes, or rather upon a ſpecial immediate hand of Gods providence. (4) That they which go down into the deep ſee ſuch wonders of the Lord as may convince the worſt Atheiſt in the world; firſt, as the ebbing and flowing of the Sea, which (ſhould it always flow) would ſoon overflow
+<pb n="142" facs="tcp:43657:76"/>
+this Iſland, if the hand of the Lord did not command it back by its ebb. 2. As that it ſhould not ſwell a<g ref="char:EOLhyphen"/>bove its banks, and break its ſwadling bands, by the fall<g ref="char:EOLhyphen"/>ing and flowing of ſo many great rivers into it. 3. As the ſaltneſs of its waters, although all thoſe mighty rivers that flow into it be freſh, and the innumerable company of fiſh in it be all freſh alſo. 4. As thoſe trade-winds that lay upon the face of the Sea to fur<g ref="char:EOLhyphen"/>ther Navigation every way; with many other wonders.</p>
+               <p n="1">1. Thus far of occaſion<g ref="char:EOLhyphen"/>al Meditation upon the book of Nature; there is
+<pb n="143" facs="tcp:43657:76"/>
+alſo Meditation appointed upon the book of Scrip<g ref="char:EOLhyphen"/>ture, which you muſt be acquainted with, as far ex<g ref="char:EOLhyphen"/>ceeding the other; for the book of Nature though ne<g ref="char:EOLhyphen"/>ver ſo diligently read over, yet will it not bring you to the ſaving knowledg of God in Chriſt, nor through<g ref="char:EOLhyphen"/>ly furniſh you for every good work; but the book of Scripture is a larger field, furniſhed with all ſorts of ſpiritual and fra<g ref="char:EOLhyphen"/>grant flowers, whereupon you may freely feed your beſt thoughts without ever hauſeating. If you can but unclaſp the tables of your own heart, (when you un<g ref="char:EOLhyphen"/>claſp
+<pb n="144" facs="tcp:43657:77"/>
+your Bible) a praying heart can never want a profitable ſubject; Oh let it not pleaſe you, that car<g ref="char:EOLhyphen"/>nal hearts can think of things below, not only an hour, a day, a week, a month, but even a whole year without wearineſs, and that to think on Gods name, <hi>Mal.</hi> 3. 17. ſhould weary you ſo ſoon.</p>
+               <p n="2">2. This ſecond ſort of Meditation is a ſet and ſo<g ref="char:EOLhyphen"/>lemn acting of all the facul<g ref="char:EOLhyphen"/>ties of the ſoul upon ſome choſen ſubject till you can extract ſome ſweet and ſoul-raviſhing thoughts out of your own heart there<g ref="char:EOLhyphen"/>by; your ſubject or mat<g ref="char:EOLhyphen"/>ter
+<pb n="145" facs="tcp:43657:77"/>
+of meditation muſt be ſome ſcriptural truth, ſuch as are ſummarily compre<g ref="char:EOLhyphen"/>hended in <hi>Phil.</hi> 4. 8. (that little Bible), <hi>Whatſoever things are true, whatſoever things are honeſt, whatſoe<g ref="char:EOLhyphen"/>ver things are juſt, whatſo<g ref="char:EOLhyphen"/>ever things are pure, whatſo<g ref="char:EOLhyphen"/>ever things are lovely, what<g ref="char:EOLhyphen"/>ſoever things are of good report; if there be any ver<g ref="char:EOLhyphen"/>tue, if there be any praiſe, think on theſe things.</hi> In that one verſe is contained the whole duty of man, the good and the all of man, <hi>Eccleſ.</hi> 12. 13. <hi>Mic.</hi> 6. 8.</p>
+               <p>The ſecond Religious Action is Prayer, which
+<pb n="146" facs="tcp:43657:78"/>
+well follows Meditation; for as, 1. Meditation is a bleſſed beginning to pray<g ref="char:EOLhyphen"/>er, ſo prayer is a bleſſed concluſion of meditation, and therefore is the double reading of <hi>Gen.</hi> 24. 63. <hi>Iſaac</hi> went out to meditate, or he went out to pray. So then, when your heart is well warmed with the An<g ref="char:EOLhyphen"/>gelical duty of Meditation, then fall upon the Evange<g ref="char:EOLhyphen"/>lical duty of Prayer, then tender and render your ho<g ref="char:EOLhyphen"/>mage to the God of all your mercies, crying with <hi>David, Oh the God of my mercies,</hi> Pſal. 59. 10.</p>
+               <p>2. You muſt know, that Prayer is the pouring out
+<pb n="147" facs="tcp:43657:78"/>
+of the heart to God, <hi>Pſal.</hi> 62. 8. 'Tis not the pouring out of your ſpeech, but of your ſpirit unto the Lord. God looks not ſo much at what you do, as with what ſpirit you do for him; you muſt ſerve God with your ſpirit in the Goſpel of his Son, <hi>Rom.</hi> 1. 9. not reſt<g ref="char:EOLhyphen"/>ing in a bare gift of prayer, without the grace of pray<g ref="char:EOLhyphen"/>er, <hi>Zach.</hi> 12. 10. you may not fetch materials or abili<g ref="char:EOLhyphen"/>ties for this work from your ſelf, but you muſt pray in the Holy Ghoſt, <hi>Jud.</hi> v. 20. <hi>Rom.</hi> 8.26. The lifting up of your own tools upon Gods Altar will not poliſh, but pollute
+<pb n="148" facs="tcp:43657:79"/>
+it, <hi>Exod.</hi> 20. <hi>ult.</hi> That ear<g ref="char:EOLhyphen"/>neſtneſs in prayer which flows meerly from a natu<g ref="char:EOLhyphen"/>ral ſpirit, is but the cry of the creature, and not the groans of that holy Spirit which helps our infirmi<g ref="char:EOLhyphen"/>ties; but expreſſions with<g ref="char:EOLhyphen"/>out impreſſions.</p>
+               <p>3. You muſt pray that God may rebuke Satan that reſiſts you in prayer; watch the adverſary that watches you, and watch your own heart likewiſe, which will not only hang off from this work, but will alſo conſpire with Sa<g ref="char:EOLhyphen"/>tan to give you diſtur<g ref="char:EOLhyphen"/>bance, when you are brea<g ref="char:EOLhyphen"/>thing out your deſires into
+<pb n="149" facs="tcp:43657:79"/>
+your fathers boſom, and ſending this winged meſ<g ref="char:EOLhyphen"/>ſenger to him: you will find it hard to ſerve the Lord (in this duty) with<g ref="char:EOLhyphen"/>out diſtraction, as 1 <hi>Cor.</hi> 7. 35. No enemy like one treacherous within.</p>
+               <p>4. Take heed of forma<g ref="char:EOLhyphen"/>lity in this duty; as a Mu<g ref="char:EOLhyphen"/>ſicians fingers will run over ſuch a ſong as he hath of<g ref="char:EOLhyphen"/>ten played, although his mind (all the while) be em<g ref="char:EOLhyphen"/>ployed about other things; ſo many run over ſuch a prayer as they have often uſed, yet their hearts are roving (all the time) about other things. God requires the ſtrength of your affe<g ref="char:EOLhyphen"/>ctions
+<pb n="150" facs="tcp:43657:80"/>
+in his ſervice; every offering muſt be made by fire, if of a ſweet favour to the Lord, <hi>Levit.</hi> 1.9, 13, 17. yea your ſelf, as well as your ſacrifice, muſt be ſalted with fire, <hi>Mark</hi> 6.49. <hi>David</hi> prayed and cryed with his whole heart, <hi>Pſal.</hi> 119. 58, 145. <hi>Sampſon</hi> bows himſelf with all his might at the pillars of <hi>Da<g ref="char:EOLhyphen"/>gons</hi> Temple, <hi>Judg.</hi> 16. 30. and have not you the ſtrong-holds of ſin in you to be pull'd down by prayer. You muſt go to prayer as the Sun in its ſtrength, <hi>Judg.</hi> 5.31. and come to God as a Prince, <hi>Job</hi> 31. 37. the Sun in his
+<pb n="151" facs="tcp:43657:80"/>
+might doth diſperſe clouds that would darken it; and a princely ſpirit to wreſtle with God, as <hi>Jacob,</hi> hath power with God, and pre<g ref="char:EOLhyphen"/>vaileth for the bleſſing: to put off God with cold formal devotion, is the epi<g ref="char:EOLhyphen"/>demical diſeaſe of all Chri<g ref="char:EOLhyphen"/>ſtendom.</p>
+               <p>5. Be not regardleſs a<g ref="char:EOLhyphen"/>bout the returns of your prayers, nor careleſs of the event and iſſue of them; be not like thoſe Archers that ſhoot not at a mark, but at rovers, at random, never obſerving where their arrows fall. Spiritual prayers are the arrows of Gods deliverance, 2 <hi>King.</hi>
+                  <pb n="152" facs="tcp:43657:81"/>
+13. 16, 17. Prayer is like the bow of <hi>Ionathan,</hi> 2 <hi>Sam.</hi> 1.22. it never returns emp<g ref="char:EOLhyphen"/>ty. If you dare be careleſs in asking, how can you wonder that God is care<g ref="char:EOLhyphen"/>leſs in anſwering.</p>
+               <p>6. Be clothed with Hu<g ref="char:EOLhyphen"/>mility while you are in prayer to God: he that re<g ref="char:EOLhyphen"/>ſiſts the proud gives grace to the humble. In order hereto, get the majeſty of the great God (with whom you have to do therein), wrought kindly upon your heart, till you know (a<g ref="char:EOLhyphen"/>right) your diſtance, not only your natural diſtance 'twixt God and you, as you are a creature; but eſpeci<g ref="char:EOLhyphen"/>ally
+<pb n="153" facs="tcp:43657:81"/>
+your moral diſtance 'twixt God and you as you are a ſinner.</p>
+               <p>In the third place I ſhall add but one Religious Acti<g ref="char:EOLhyphen"/>on more, to wit, 1. the Ob<g ref="char:EOLhyphen"/>ſervation of the Sabbath, which yet is, <hi>inſtar omnium,</hi> wherein all religious acti<g ref="char:EOLhyphen"/>ons be ſummarily compre<g ref="char:EOLhyphen"/>hended. You muſt look up<g ref="char:EOLhyphen"/>on the Sabbath as the Epi<g ref="char:EOLhyphen"/>tome and Compendium of all Religion, having all the priviledges that commend the moſt ſubſtantial pre<g ref="char:EOLhyphen"/>cepts in Scripture to us, as 1. its frequent mentioning (almoſt) in every book of the Bible. 2. Gods inte<g ref="char:EOLhyphen"/>reſt (after a ſpecial man<g ref="char:EOLhyphen"/>ner)
+<pb n="154" facs="tcp:43657:82"/>
+in it, 'tis frequently call'd <hi>[His]</hi> Sabbath. And <hi>3ly,</hi> 'tis called a ſpecial gift and favour of God to his people, <hi>Exod.</hi> 16. 29. <hi>Ezek.</hi> 20. 12. <hi>Neh.</hi> 9. 14. 'Tis a great favour of God that it is given to you.</p>
+               <p>2. Therefore you muſt remember to keep it holy, <hi>Exod.</hi> 20. 8. (it may be read thus), Remember to keep holy a day of reſt un<g ref="char:EOLhyphen"/>to me, ſix days ſhalt thou labour, but a ſeventh day is the Sabbath of the Lord thy God. The very Pre<g ref="char:EOLhyphen"/>face <hi>[Remember]</hi> which none of the other Com<g ref="char:EOLhyphen"/>mands have, inſtructs you, how weighty and neceſſary
+<pb n="155" facs="tcp:43657:82"/>
+this duty is, (which you are prone to forget.</p>
+               <p>3. That you may keep it holy, you muſt (in the firſt place) have an high and ho<g ref="char:EOLhyphen"/>ly eſtimation of it; the phraſe is, <hi>He that eſteemeth a day, and he that regardeth a day,</hi> Rom. 14. 5, 6. You muſt have an high regard for it, and eſteem it honour<g ref="char:EOLhyphen"/>able, <hi>Iſa.</hi> 58. 13. as <hi>the day which the Lord hath made,</hi> Pſal. 118. 12. (this Chriſt applys to the day of his Reſurrection, <hi>Mat.</hi> 21. 24.) How can it but be an honourable day to you which the Lord your God hath ſanctified for you. <hi>2ly,</hi> As you muſt have an
+<pb n="156" facs="tcp:43657:83"/>
+holy eſtimation of it, ſo you muſt make an holy preparation for it; you muſt prepare <hi>to meet your God,</hi> Amos 4. 12, as the Bride prepares her ſelf to meet her bride-groom; how did <hi>Ruth</hi> waſh her ſelf, and anoint her, and put on her beſt raiment, that ſhe might become amiable and accep<g ref="char:EOLhyphen"/>table to <hi>Boaz?</hi> Ruth 3. 3. how much more ſhould you be purified for the King of Kings, and Lord of Lords. The <hi>Jews</hi> had a preparation for the Paſſe<g ref="char:EOLhyphen"/>over, <hi>Joh.</hi> 19.42. you muſt make preparation for the Sabbath, the want of which may hinder your ſouls of a
+<pb n="157" facs="tcp:43657:83"/>
+Sabbath-bleſſing, as (no doubt) it has done. <hi>3ly,</hi> You muſt keep it holy by an ho<g ref="char:EOLhyphen"/>ly obſervation of it, in u<g ref="char:EOLhyphen"/>ſing all holy means, and do<g ref="char:EOLhyphen"/>ing all holy duties (both private and publick) all the whole day.</p>
+               <p>4. Be ſure it be a deſira<g ref="char:EOLhyphen"/>ble day to you as well as holy and honourable; it ſhould be the deſire of days. You ſhould cry (with that good man) to it in the morning of the Sabbath, Come my bride of days, thou art welcome; and with <hi>David</hi> ſay, <hi>Oh, when ſhall I come and appear before my God?</hi> Pſal. 42.2. where are your pantings and palpita<g ref="char:EOLhyphen"/>tions
+<pb n="158" facs="tcp:43657:84"/>
+of heart after an en<g ref="char:EOLhyphen"/>joyment of Gods Sabbath. You have ſix days to pro<g ref="char:EOLhyphen"/>vide for the worſer part, and but one for the better, how careful are you all the ſix days for the beaſt in you, Oh be not careleſs upon that one day for the Angel in you.</p>
+               <p>5. Let not your hold go of any one precious Sab<g ref="char:EOLhyphen"/>bath, without ſome ſweet refreſhment to your ſoul, as well as reſt to your bo<g ref="char:EOLhyphen"/>dy; 'tis ſaid, <hi>Exod.</hi> 31. 17. <hi>the Lord reſted and was re<g ref="char:EOLhyphen"/>freſhed;</hi> is it ſo with you? do you find any reſt for your wandring thoughts, and any refreſhing for your
+<pb n="159" facs="tcp:43657:84"/>
+feeble ſpirit? account it a very great loſs to loſe one Sabbath-day without ſome advantage and growth: Oh what a God-bleſſing heart ſhould you have, that God ſhould give you ſuch a day, and call upon you alſo (and that often) to obſerve that day, and that not for any advantage to himſelf, (for <hi>your goodneſs extends not to God,</hi> Pſal. 16. 3. though his doth to you), but all for your own good. This ob<g ref="char:EOLhyphen"/>liges you to be careful and conſcientious in the im<g ref="char:EOLhyphen"/>provement of the day, and honouring the Son with his day under the Goſpel, as they honor'd the Father with</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
